@@ -1,0 +1,3211 @@
+ID Transaksi,Produk,Kategori,Satuan,Kuantitas,Harga Satuan,Total Harga,Tanggal Pembelian
+T1860,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1121,Cat Kayu,Cat,Kaleng,7,89000,623000,1/3/2024
+T1871,Kuas,Alat,Buah,8,18000,144000,1/8/2024
+T1769,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/8/2024
+T1955,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/5/2024
+T1021,Semen,Material Konstruksi,Zak,10,63000,630000,1/9/2024
+T1699,Semen,Material Konstruksi,Zak,10,63000,630000,1/3/2024
+T1831,Kuas,Alat,Buah,4,18000,72000,1/9/2024
+T1646,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1387,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1776,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/5/2024
+T1091,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T1205,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/1/2024
+T2025,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1702,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/2/2024
+T1995,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/8/2024
+T1295,Kuas,Alat,Buah,9,18000,162000,1/5/2024
+T1791,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/9/2024
+T1520,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T1592,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1288,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1040,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1779,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/2/2024
+T1406,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1683,Cat Kayu,Cat,Kaleng,3,89000,267000,1/8/2024
+T1960,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/3/2024
+T2028,Cat Kayu,Cat,Kaleng,3,89000,267000,1/7/2024
+T1206,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1563,Kuas,Alat,Buah,1,18000,18000,1/4/2024
+T1230,Cat Kayu,Cat,Kaleng,7,89000,623000,1/4/2024
+T1577,Kuas,Alat,Buah,3,18000,54000,1/9/2024
+T1795,Cat Kayu,Cat,Kaleng,6,89000,534000,1/4/2024
+T1189,Kuas,Alat,Buah,9,18000,162000,1/1/2024
+T1632,Semen,Material Konstruksi,Zak,9,63000,567000,1/4/2024
+T1709,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/8/2024
+T1683,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1441,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/4/2024
+T1951,Kuas,Alat,Buah,2,18000,36000,1/1/2024
+T1641,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1384,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1729,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1202,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1279,Semen,Material Konstruksi,Zak,6,63000,378000,1/5/2024
+T1197,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1186,Semen,Material Konstruksi,Zak,9,63000,567000,1/6/2024
+T1763,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T1146,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/4/2024
+T1488,Kuas,Alat,Buah,4,18000,72000,1/1/2024
+T1337,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/8/2024
+T1472,Semen,Material Konstruksi,Zak,9,63000,567000,1/2/2024
+T1262,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1001,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T2014,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1815,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/3/2024
+T1053,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/8/2024
+T1627,Semen,Material Konstruksi,Zak,8,63000,504000,1/1/2024
+T1103,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/4/2024
+T1098,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/9/2024
+T1821,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/3/2024
+T1160,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/4/2024
+T1815,Semen,Material Konstruksi,Zak,5,63000,315000,1/4/2024
+T1400,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/1/2024
+T2045,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/6/2024
+T1437,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1797,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T2019,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1016,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/5/2024
+T2060,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1606,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1190,Semen,Material Konstruksi,Zak,4,63000,252000,1/5/2024
+T1127,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1565,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/3/2024
+T1625,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/6/2024
+T1154,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T1245,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1920,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1035,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1511,Semen,Material Konstruksi,Zak,8,63000,504000,1/3/2024
+T1833,Kuas,Alat,Buah,2,18000,36000,1/7/2024
+T1574,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/6/2024
+T1681,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/6/2024
+T1992,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/8/2024
+T1773,Cat Kayu,Cat,Kaleng,5,89000,445000,1/4/2024
+T1935,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/4/2024
+T1656,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/8/2024
+T1740,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/5/2024
+T2012,Kuas,Alat,Buah,9,18000,162000,1/1/2024
+T1559,Semen,Material Konstruksi,Zak,2,63000,126000,1/9/2024
+T1896,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1860,Cat Kayu,Cat,Kaleng,6,89000,534000,1/7/2024
+T1996,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/6/2024
+T2008,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/4/2024
+T1473,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1356,Kuas,Alat,Buah,4,18000,72000,1/7/2024
+T1801,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/4/2024
+T1768,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/8/2024
+T2039,Cat Kayu,Cat,Kaleng,4,89000,356000,1/8/2024
+T1496,Kuas,Alat,Buah,2,18000,36000,1/4/2024
+T1379,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/1/2024
+T2066,Semen,Material Konstruksi,Zak,3,63000,189000,1/2/2024
+T1034,Cat Tembok,Cat,Kaleng,2,232000,464000,1/7/2024
+T1775,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1825,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1728,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/5/2024
+T1456,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1977,Cat Tembok,Cat,Kaleng,1,232000,232000,1/1/2024
+T1662,Kuas,Alat,Buah,8,18000,144000,1/5/2024
+T1278,Semen,Material Konstruksi,Zak,7,63000,441000,1/9/2024
+T1061,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/4/2024
+T1396,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1395,Semen,Material Konstruksi,Zak,4,63000,252000,1/9/2024
+T1454,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/4/2024
+T1143,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/5/2024
+T1395,Cat Kayu,Cat,Kaleng,3,89000,267000,1/9/2024
+T1568,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1934,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1732,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/2/2024
+T1953,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1169,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1028,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/5/2024
+T1499,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/1/2024
+T1444,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T1038,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1475,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/8/2024
+T2024,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/3/2024
+T1823,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/1/2024
+T1133,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1202,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1046,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1655,Semen,Material Konstruksi,Zak,1,63000,63000,1/7/2024
+T1735,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1667,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/5/2024
+T1675,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/8/2024
+T1040,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/4/2024
+T1928,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/5/2024
+T1389,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/2/2024
+T1449,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/8/2024
+T2015,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1145,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1062,Cat Kayu,Cat,Kaleng,10,89000,890000,1/9/2024
+T1104,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T1822,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1770,Semen,Material Konstruksi,Zak,5,63000,315000,1/5/2024
+T1676,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1456,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1448,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1094,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/8/2024
+T1249,Kuas,Alat,Buah,10,18000,180000,1/2/2024
+T1770,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/2/2024
+T1235,Semen,Material Konstruksi,Zak,6,63000,378000,1/5/2024
+T1623,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1577,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1763,Kuas,Alat,Buah,6,18000,108000,1/2/2024
+T1097,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/2/2024
+T1248,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T2019,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1132,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1784,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1545,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/6/2024
+T1204,Cat Kayu,Cat,Kaleng,2,89000,178000,1/3/2024
+T1847,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/6/2024
+T1359,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/4/2024
+T1666,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/2/2024
+T2028,Cat Tembok,Cat,Kaleng,3,232000,696000,1/2/2024
+T1837,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/1/2024
+T1523,Cat Kayu,Cat,Kaleng,9,89000,801000,1/2/2024
+T1793,Semen,Material Konstruksi,Zak,10,63000,630000,1/9/2024
+T1238,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/8/2024
+T1803,Semen,Material Konstruksi,Zak,10,63000,630000,1/1/2024
+T1718,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T1027,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/7/2024
+T1364,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/8/2024
+T2026,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/7/2024
+T1805,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/3/2024
+T1484,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/7/2024
+T1085,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/9/2024
+T1024,Semen,Material Konstruksi,Zak,4,63000,252000,1/4/2024
+T1108,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/2/2024
+T1033,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/8/2024
+T1747,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/3/2024
+T1691,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1661,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1623,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1758,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/3/2024
+T1228,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/4/2024
+T1467,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/4/2024
+T1880,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/8/2024
+T1573,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T2049,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/3/2024
+T1835,Cat Kayu,Cat,Kaleng,6,89000,534000,1/3/2024
+T1531,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T1653,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T1844,Cat Kayu,Cat,Kaleng,4,89000,356000,1/3/2024
+T1689,Semen,Material Konstruksi,Zak,6,63000,378000,1/8/2024
+T1171,Cat Kayu,Cat,Kaleng,7,89000,623000,1/2/2024
+T1320,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1776,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T1317,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/2/2024
+T1587,Cat Kayu,Cat,Kaleng,8,89000,712000,1/3/2024
+T1917,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1269,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1004,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T2065,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/9/2024
+T1615,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/3/2024
+T2046,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T2006,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1103,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/3/2024
+T1197,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1553,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/4/2024
+T1477,Semen,Material Konstruksi,Zak,4,63000,252000,1/7/2024
+T2020,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/5/2024
+T1195,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1516,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/1/2024
+T1814,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1014,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/8/2024
+T1843,Cat Kayu,Cat,Kaleng,4,89000,356000,1/2/2024
+T1793,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1871,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/6/2024
+T1022,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/8/2024
+T1992,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1887,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/5/2024
+T2008,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T2052,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1778,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/7/2024
+T1419,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T2024,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T1935,Kuas,Alat,Buah,3,18000,54000,1/5/2024
+T1201,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/4/2024
+T1936,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1074,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/6/2024
+T1474,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/2/2024
+T1663,Semen,Material Konstruksi,Zak,3,63000,189000,1/9/2024
+T1709,Kuas,Alat,Buah,4,18000,72000,1/5/2024
+T1176,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/6/2024
+T1966,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1688,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1475,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/8/2024
+T1989,Semen,Material Konstruksi,Zak,7,63000,441000,1/7/2024
+T1722,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1017,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/1/2024
+T1193,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1946,Semen,Material Konstruksi,Zak,2,63000,126000,1/4/2024
+T1924,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1799,Kuas,Alat,Buah,3,18000,54000,1/3/2024
+T1086,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/7/2024
+T2031,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/1/2024
+T1442,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/8/2024
+T1578,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T1095,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1164,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1943,Cat Kayu,Cat,Kaleng,7,89000,623000,1/2/2024
+T1774,Kuas,Alat,Buah,10,18000,180000,1/1/2024
+T1146,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1513,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/1/2024
+T1745,Cat Kayu,Cat,Kaleng,4,89000,356000,1/2/2024
+T1395,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/4/2024
+T1933,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1939,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/3/2024
+T1853,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/8/2024
+T1631,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T1525,Semen,Material Konstruksi,Zak,2,63000,126000,1/9/2024
+T1236,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/9/2024
+T1493,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1804,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1041,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/4/2024
+T1033,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/1/2024
+T1997,Cat Kayu,Cat,Kaleng,9,89000,801000,1/7/2024
+T1341,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1730,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/8/2024
+T1820,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/7/2024
+T1980,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1818,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/5/2024
+T1793,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/5/2024
+T1186,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/7/2024
+T1097,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1405,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1750,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1957,Cat Tembok,Cat,Kaleng,3,232000,696000,1/2/2024
+T1072,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T1060,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T1130,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/2/2024
+T1101,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T2067,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/1/2024
+T1011,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T1660,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1373,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T1465,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1046,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1980,Semen,Material Konstruksi,Zak,7,63000,441000,1/6/2024
+T1136,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1826,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/7/2024
+T1934,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/3/2024
+T1614,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/1/2024
+T1619,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/2/2024
+T1935,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/7/2024
+T1496,Kuas,Alat,Buah,7,18000,126000,1/4/2024
+T1721,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1738,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/2/2024
+T2062,Kuas,Alat,Buah,2,18000,36000,1/4/2024
+T1747,Semen,Material Konstruksi,Zak,5,63000,315000,1/9/2024
+T1265,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1388,Kuas,Alat,Buah,4,18000,72000,1/1/2024
+T1375,Semen,Material Konstruksi,Zak,3,63000,189000,1/2/2024
+T1292,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/9/2024
+T1584,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1963,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/5/2024
+T1806,Cat Kayu,Cat,Kaleng,6,89000,534000,1/8/2024
+T1563,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/4/2024
+T1884,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/3/2024
+T1217,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1258,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T1053,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T2043,Semen,Material Konstruksi,Zak,9,63000,567000,1/1/2024
+T1849,Cat Tembok,Cat,Kaleng,2,232000,464000,1/1/2024
+T1159,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1892,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1951,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/3/2024
+T1920,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/2/2024
+T1954,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/2/2024
+T1327,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1036,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T2063,Semen,Material Konstruksi,Zak,2,63000,126000,1/3/2024
+T2063,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/2/2024
+T1215,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/3/2024
+T1570,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/9/2024
+T1355,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/6/2024
+T1556,Kuas,Alat,Buah,5,18000,90000,1/9/2024
+T1425,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/5/2024
+T1355,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T2069,Kuas,Alat,Buah,2,18000,36000,1/1/2024
+T1359,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T2007,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/6/2024
+T1585,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T1988,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1483,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/2/2024
+T1523,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/6/2024
+T1885,Semen,Material Konstruksi,Zak,10,63000,630000,1/1/2024
+T1209,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/2/2024
+T1947,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/7/2024
+T1878,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1737,Kuas,Alat,Buah,10,18000,180000,1/4/2024
+T1396,Semen,Material Konstruksi,Zak,3,63000,189000,1/9/2024
+T1796,Kuas,Alat,Buah,7,18000,126000,1/4/2024
+T2045,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/3/2024
+T1988,Semen,Material Konstruksi,Zak,8,63000,504000,1/5/2024
+T1569,Cat Kayu,Cat,Kaleng,4,89000,356000,1/6/2024
+T2008,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/9/2024
+T1491,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/8/2024
+T1519,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1386,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/5/2024
+T1898,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/4/2024
+T1520,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/6/2024
+T2013,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/5/2024
+T1583,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T1273,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T1800,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/6/2024
+T1778,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/6/2024
+T1400,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/9/2024
+T1091,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1935,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1224,Semen,Material Konstruksi,Zak,2,63000,126000,1/1/2024
+T1588,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T1193,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1121,Kuas,Alat,Buah,10,18000,180000,1/2/2024
+T1886,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/1/2024
+T1634,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/6/2024
+T1222,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/9/2024
+T1110,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1021,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1013,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/2/2024
+T1908,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1749,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/4/2024
+T1308,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1913,Cat Tembok,Cat,Kaleng,2,232000,464000,1/3/2024
+T1311,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/9/2024
+T1754,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T1902,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1956,Cat Kayu,Cat,Kaleng,10,89000,890000,1/8/2024
+T1515,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/4/2024
+T1946,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/9/2024
+T1865,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/4/2024
+T1931,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/6/2024
+T1754,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1529,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1866,Cat Kayu,Cat,Kaleng,1,89000,89000,1/8/2024
+T1939,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1836,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T1380,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/8/2024
+T1129,Kuas,Alat,Buah,9,18000,162000,1/7/2024
+T1890,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/9/2024
+T1260,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/1/2024
+T1300,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/7/2024
+T1269,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1971,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1686,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/5/2024
+T1155,Cat Kayu,Cat,Kaleng,1,89000,89000,1/6/2024
+T1333,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T2043,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/1/2024
+T1197,Kuas,Alat,Buah,3,18000,54000,1/5/2024
+T2008,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1241,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/8/2024
+T2062,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1150,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/4/2024
+T1891,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/7/2024
+T1128,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/7/2024
+T1516,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/6/2024
+T1310,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/7/2024
+T1302,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/8/2024
+T1344,Semen,Material Konstruksi,Zak,8,63000,504000,1/4/2024
+T1360,Semen,Material Konstruksi,Zak,1,63000,63000,1/2/2024
+T1574,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/9/2024
+T1687,Semen,Material Konstruksi,Zak,9,63000,567000,1/9/2024
+T1970,Cat Kayu,Cat,Kaleng,9,89000,801000,1/4/2024
+T1493,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1396,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1821,Kuas,Alat,Buah,3,18000,54000,1/7/2024
+T1710,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1304,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/1/2024
+T1866,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/8/2024
+T2026,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/5/2024
+T1453,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1303,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1497,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/5/2024
+T1335,Kuas,Alat,Buah,7,18000,126000,1/5/2024
+T1714,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/3/2024
+T1140,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/6/2024
+T1963,Cat Tembok,Cat,Kaleng,2,232000,464000,1/5/2024
+T1105,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/4/2024
+T1588,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/4/2024
+T2062,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1444,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T1558,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/7/2024
+T1725,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/9/2024
+T1983,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T1719,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/1/2024
+T1049,Cat Kayu,Cat,Kaleng,4,89000,356000,1/8/2024
+T1856,Cat Tembok,Cat,Kaleng,4,232000,928000,1/2/2024
+T1992,Cat Tembok,Cat,Kaleng,4,232000,928000,1/7/2024
+T1686,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1672,Cat Tembok,Cat,Kaleng,2,232000,464000,1/7/2024
+T1661,Cat Kayu,Cat,Kaleng,1,89000,89000,1/5/2024
+T1649,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T1769,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/3/2024
+T1636,Kuas,Alat,Buah,5,18000,90000,1/7/2024
+T1458,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1553,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1352,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T1647,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/1/2024
+T1998,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1955,Semen,Material Konstruksi,Zak,2,63000,126000,1/5/2024
+T1066,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1726,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/2/2024
+T1353,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/7/2024
+T1661,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T1310,Cat Kayu,Cat,Kaleng,9,89000,801000,1/9/2024
+T1979,Kuas,Alat,Buah,1,18000,18000,1/3/2024
+T1629,Kuas,Alat,Buah,3,18000,54000,1/5/2024
+T1363,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T1405,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1799,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/1/2024
+T1737,Cat Kayu,Cat,Kaleng,6,89000,534000,1/4/2024
+T1113,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1769,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/9/2024
+T1834,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T1310,Kuas,Alat,Buah,10,18000,180000,1/6/2024
+T1142,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/6/2024
+T1489,Cat Kayu,Cat,Kaleng,4,89000,356000,1/1/2024
+T1133,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1072,Kuas,Alat,Buah,4,18000,72000,1/5/2024
+T1858,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T1265,Cat Tembok,Cat,Kaleng,2,232000,464000,1/9/2024
+T1252,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/6/2024
+T1094,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1898,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T2048,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/5/2024
+T1916,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/2/2024
+T2035,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1671,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1286,Kuas,Alat,Buah,3,18000,54000,1/3/2024
+T1777,Cat Kayu,Cat,Kaleng,3,89000,267000,1/9/2024
+T1456,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/7/2024
+T1148,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/9/2024
+T1399,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T1784,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/5/2024
+T1819,Kuas,Alat,Buah,4,18000,72000,1/4/2024
+T1767,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/3/2024
+T1454,Kuas,Alat,Buah,6,18000,108000,1/5/2024
+T1509,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T1245,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1900,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1241,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1172,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T1496,Semen,Material Konstruksi,Zak,3,63000,189000,1/5/2024
+T1628,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/4/2024
+T1623,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T1553,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/5/2024
+T1191,Semen,Material Konstruksi,Zak,9,63000,567000,1/1/2024
+T1424,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/1/2024
+T2033,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/2/2024
+T1714,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1725,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/8/2024
+T1955,Semen,Material Konstruksi,Zak,1,63000,63000,1/7/2024
+T1580,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/1/2024
+T2031,Kuas,Alat,Buah,5,18000,90000,1/8/2024
+T1042,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/1/2024
+T1663,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1276,Cat Kayu,Cat,Kaleng,4,89000,356000,1/8/2024
+T1398,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1539,Kuas,Alat,Buah,3,18000,54000,1/3/2024
+T1349,Cat Kayu,Cat,Kaleng,5,89000,445000,1/6/2024
+T1991,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T1920,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/9/2024
+T1962,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1168,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/9/2024
+T1148,Kuas,Alat,Buah,2,18000,36000,1/4/2024
+T1373,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1782,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/1/2024
+T1182,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/9/2024
+T1845,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/9/2024
+T1413,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1685,Cat Kayu,Cat,Kaleng,3,89000,267000,1/1/2024
+T1121,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1779,Kuas,Alat,Buah,1,18000,18000,1/9/2024
+T2021,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/5/2024
+T1237,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/7/2024
+T1661,Kuas,Alat,Buah,6,18000,108000,1/9/2024
+T1769,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/5/2024
+T1087,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1695,Cat Kayu,Cat,Kaleng,1,89000,89000,1/3/2024
+T1022,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/7/2024
+T1135,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1514,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1873,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/2/2024
+T1301,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1111,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1597,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/6/2024
+T2043,Semen,Material Konstruksi,Zak,9,63000,567000,1/3/2024
+T1697,Kuas,Alat,Buah,6,18000,108000,1/4/2024
+T1535,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/6/2024
+T1821,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/8/2024
+T1201,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T1940,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1582,Semen,Material Konstruksi,Zak,7,63000,441000,1/4/2024
+T1335,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/7/2024
+T1765,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/8/2024
+T1158,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/3/2024
+T1405,Semen,Material Konstruksi,Zak,3,63000,189000,1/8/2024
+T1926,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/4/2024
+T1182,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1830,Kuas,Alat,Buah,1,18000,18000,1/4/2024
+T2019,Semen,Material Konstruksi,Zak,9,63000,567000,1/6/2024
+T1197,Semen,Material Konstruksi,Zak,1,63000,63000,1/4/2024
+T1077,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1836,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T1049,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/3/2024
+T1709,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1546,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1048,Cat Kayu,Cat,Kaleng,5,89000,445000,1/5/2024
+T1637,Cat Kayu,Cat,Kaleng,4,89000,356000,1/7/2024
+T1930,Kuas,Alat,Buah,2,18000,36000,1/1/2024
+T1611,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/6/2024
+T1685,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/9/2024
+T1984,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T1875,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1269,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T1204,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/6/2024
+T1595,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/2/2024
+T1195,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1638,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1943,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/7/2024
+T1491,Cat Kayu,Cat,Kaleng,10,89000,890000,1/8/2024
+T1313,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1983,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1852,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1628,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T1597,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1572,Semen,Material Konstruksi,Zak,1,63000,63000,1/2/2024
+T1176,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/1/2024
+T1197,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1852,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1841,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1587,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/8/2024
+T1570,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/3/2024
+T1959,Cat Tembok,Cat,Kaleng,1,232000,232000,1/7/2024
+T1382,Cat Kayu,Cat,Kaleng,4,89000,356000,1/4/2024
+T1375,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/8/2024
+T1627,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T2049,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T2067,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/1/2024
+T1773,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/7/2024
+T1600,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1306,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/8/2024
+T1507,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/9/2024
+T1566,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1553,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/4/2024
+T1774,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1039,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T2014,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1259,Cat Kayu,Cat,Kaleng,5,89000,445000,1/6/2024
+T1543,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1574,Kuas,Alat,Buah,1,18000,18000,1/7/2024
+T1669,Cat Kayu,Cat,Kaleng,5,89000,445000,1/2/2024
+T1246,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/5/2024
+T1352,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1929,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/5/2024
+T1645,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1942,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/9/2024
+T1981,Cat Kayu,Cat,Kaleng,8,89000,712000,1/3/2024
+T1189,Cat Kayu,Cat,Kaleng,8,89000,712000,1/1/2024
+T1545,Cat Kayu,Cat,Kaleng,3,89000,267000,1/9/2024
+T1952,Cat Tembok,Cat,Kaleng,2,232000,464000,1/7/2024
+T1836,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T1892,Semen,Material Konstruksi,Zak,4,63000,252000,1/2/2024
+T1935,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1200,Kuas,Alat,Buah,6,18000,108000,1/4/2024
+T1854,Semen,Material Konstruksi,Zak,8,63000,504000,1/3/2024
+T1142,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/5/2024
+T1948,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/4/2024
+T1550,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/9/2024
+T1645,Cat Tembok,Cat,Kaleng,2,232000,464000,1/7/2024
+T1557,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1839,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/3/2024
+T1280,Cat Tembok,Cat,Kaleng,4,232000,928000,1/8/2024
+T1613,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/7/2024
+T1082,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T1283,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/4/2024
+T1762,Kuas,Alat,Buah,9,18000,162000,1/7/2024
+T1942,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1675,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/8/2024
+T1319,Semen,Material Konstruksi,Zak,9,63000,567000,1/1/2024
+T1088,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/5/2024
+T1333,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/9/2024
+T1987,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/8/2024
+T1694,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/1/2024
+T1660,Cat Tembok,Cat,Kaleng,2,232000,464000,1/5/2024
+T2012,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T2058,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/1/2024
+T1479,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1331,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1025,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1532,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1504,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T1347,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/4/2024
+T1853,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1346,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/7/2024
+T1213,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/9/2024
+T1572,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1361,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/1/2024
+T1866,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T1652,Cat Tembok,Cat,Kaleng,4,232000,928000,1/6/2024
+T1554,Semen,Material Konstruksi,Zak,1,63000,63000,1/4/2024
+T1340,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1381,Semen,Material Konstruksi,Zak,10,63000,630000,1/9/2024
+T1816,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/9/2024
+T1818,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1396,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1018,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1444,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/1/2024
+T1519,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1849,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1989,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/1/2024
+T1484,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/3/2024
+T1331,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/3/2024
+T1958,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1909,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/2/2024
+T1712,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1453,Kuas,Alat,Buah,3,18000,54000,1/5/2024
+T1386,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/8/2024
+T1267,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/3/2024
+T1985,Semen,Material Konstruksi,Zak,7,63000,441000,1/5/2024
+T1222,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1276,Kuas,Alat,Buah,8,18000,144000,1/6/2024
+T1610,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T2053,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1846,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1559,Kuas,Alat,Buah,8,18000,144000,1/9/2024
+T1678,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/2/2024
+T1006,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/4/2024
+T1832,Cat Kayu,Cat,Kaleng,8,89000,712000,1/1/2024
+T1913,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/3/2024
+T1575,Semen,Material Konstruksi,Zak,1,63000,63000,1/5/2024
+T1832,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/4/2024
+T1836,Semen,Material Konstruksi,Zak,2,63000,126000,1/8/2024
+T1074,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/4/2024
+T1261,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/5/2024
+T1124,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1645,Cat Kayu,Cat,Kaleng,3,89000,267000,1/4/2024
+T1368,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/4/2024
+T1067,Semen,Material Konstruksi,Zak,6,63000,378000,1/5/2024
+T1304,Cat Kayu,Cat,Kaleng,9,89000,801000,1/2/2024
+T1342,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/3/2024
+T1761,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/1/2024
+T1299,Cat Kayu,Cat,Kaleng,5,89000,445000,1/7/2024
+T1482,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/2/2024
+T1508,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T1103,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1761,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/3/2024
+T1519,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1163,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1266,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1394,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T2043,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1882,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T2022,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1406,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/9/2024
+T1973,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T1902,Cat Tembok,Cat,Kaleng,4,232000,928000,1/3/2024
+T1115,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/1/2024
+T1736,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1442,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/5/2024
+T1479,Kuas,Alat,Buah,2,18000,36000,1/6/2024
+T1905,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1695,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1263,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1541,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1024,Cat Tembok,Cat,Kaleng,1,232000,232000,1/5/2024
+T1140,Semen,Material Konstruksi,Zak,5,63000,315000,1/8/2024
+T1187,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/9/2024
+T1546,Semen,Material Konstruksi,Zak,4,63000,252000,1/2/2024
+T1801,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1909,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1935,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/1/2024
+T1321,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T1294,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/3/2024
+T1973,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/8/2024
+T1732,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T1320,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1780,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1725,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/1/2024
+T1543,Kuas,Alat,Buah,7,18000,126000,1/4/2024
+T1659,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1052,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/8/2024
+T1775,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/2/2024
+T1849,Kuas,Alat,Buah,2,18000,36000,1/8/2024
+T1990,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/1/2024
+T1293,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/1/2024
+T1817,Kuas,Alat,Buah,8,18000,144000,1/8/2024
+T1324,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/9/2024
+T1136,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1910,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1197,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1400,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/7/2024
+T1631,Semen,Material Konstruksi,Zak,9,63000,567000,1/7/2024
+T1234,Kuas,Alat,Buah,5,18000,90000,1/5/2024
+T1522,Semen,Material Konstruksi,Zak,8,63000,504000,1/1/2024
+T1532,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1809,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1870,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T1226,Cat Tembok,Cat,Kaleng,2,232000,464000,1/9/2024
+T2036,Kuas,Alat,Buah,9,18000,162000,1/2/2024
+T1030,Cat Kayu,Cat,Kaleng,4,89000,356000,1/2/2024
+T1951,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/6/2024
+T1620,Semen,Material Konstruksi,Zak,4,63000,252000,1/7/2024
+T1775,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/7/2024
+T2026,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1821,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1234,Semen,Material Konstruksi,Zak,4,63000,252000,1/3/2024
+T1117,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/6/2024
+T1557,Cat Kayu,Cat,Kaleng,5,89000,445000,1/5/2024
+T1867,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1110,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/6/2024
+T1883,Semen,Material Konstruksi,Zak,6,63000,378000,1/8/2024
+T1857,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/6/2024
+T1118,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1174,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T1664,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1518,Kuas,Alat,Buah,10,18000,180000,1/4/2024
+T1483,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/7/2024
+T1456,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/8/2024
+T1728,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1643,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/8/2024
+T1156,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/2/2024
+T1515,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/8/2024
+T1607,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/4/2024
+T1232,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/1/2024
+T1025,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1455,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/8/2024
+T1563,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/6/2024
+T1558,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/9/2024
+T1004,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/4/2024
+T1458,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/8/2024
+T1945,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/6/2024
+T1276,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/5/2024
+T1597,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/2/2024
+T1519,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/1/2024
+T1862,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1559,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1273,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1869,Kuas,Alat,Buah,7,18000,126000,1/6/2024
+T1619,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/3/2024
+T1618,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/5/2024
+T1519,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/8/2024
+T2062,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T1753,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1420,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1170,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1871,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1943,Kuas,Alat,Buah,8,18000,144000,1/6/2024
+T1348,Cat Kayu,Cat,Kaleng,9,89000,801000,1/3/2024
+T1666,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1600,Cat Tembok,Cat,Kaleng,1,232000,232000,1/7/2024
+T1979,Semen,Material Konstruksi,Zak,3,63000,189000,1/4/2024
+T1717,Cat Kayu,Cat,Kaleng,3,89000,267000,1/1/2024
+T1860,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/4/2024
+T1323,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T1153,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/4/2024
+T1314,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/9/2024
+T1353,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1708,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1098,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1326,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/8/2024
+T1461,Cat Kayu,Cat,Kaleng,5,89000,445000,1/4/2024
+T1083,Kuas,Alat,Buah,10,18000,180000,1/2/2024
+T1552,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/3/2024
+T1474,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1706,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/8/2024
+T1993,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/8/2024
+T2027,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T1432,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/7/2024
+T1627,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1680,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1679,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/7/2024
+T1211,Kuas,Alat,Buah,6,18000,108000,1/3/2024
+T1843,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/6/2024
+T1750,Cat Tembok,Cat,Kaleng,4,232000,928000,1/9/2024
+T1305,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1205,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/9/2024
+T1503,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/6/2024
+T1660,Cat Kayu,Cat,Kaleng,6,89000,534000,1/8/2024
+T1937,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1009,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/6/2024
+T1435,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/9/2024
+T1752,Cat Kayu,Cat,Kaleng,5,89000,445000,1/1/2024
+T1488,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/8/2024
+T2024,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1762,Kuas,Alat,Buah,9,18000,162000,1/9/2024
+T1261,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/4/2024
+T1560,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1962,Semen,Material Konstruksi,Zak,1,63000,63000,1/4/2024
+T1368,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/3/2024
+T1487,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T1727,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/3/2024
+T1992,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1192,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/5/2024
+T1524,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1451,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/7/2024
+T2045,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/3/2024
+T1839,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/7/2024
+T1450,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/2/2024
+T1499,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T2035,Semen,Material Konstruksi,Zak,1,63000,63000,1/5/2024
+T1901,Cat Kayu,Cat,Kaleng,1,89000,89000,1/1/2024
+T1845,Cat Kayu,Cat,Kaleng,9,89000,801000,1/5/2024
+T2056,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/2/2024
+T1725,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/5/2024
+T1451,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/1/2024
+T1390,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1127,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T2052,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/8/2024
+T1360,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/9/2024
+T1201,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T1680,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T1424,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/1/2024
+T2018,Semen,Material Konstruksi,Zak,7,63000,441000,1/3/2024
+T1207,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/2/2024
+T1165,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/6/2024
+T1218,Kuas,Alat,Buah,7,18000,126000,1/6/2024
+T1949,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1366,Cat Tembok,Cat,Kaleng,4,232000,928000,1/2/2024
+T1917,Cat Kayu,Cat,Kaleng,2,89000,178000,1/3/2024
+T1072,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/1/2024
+T1099,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/2/2024
+T1594,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/9/2024
+T1946,Cat Kayu,Cat,Kaleng,6,89000,534000,1/5/2024
+T1867,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1880,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T1082,Kuas,Alat,Buah,1,18000,18000,1/1/2024
+T1045,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/6/2024
+T1841,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/2/2024
+T1366,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/4/2024
+T1914,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T2064,Semen,Material Konstruksi,Zak,9,63000,567000,1/2/2024
+T1038,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T2023,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1298,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1962,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/1/2024
+T1638,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/3/2024
+T1386,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1602,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1720,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/9/2024
+T1294,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1548,Semen,Material Konstruksi,Zak,6,63000,378000,1/9/2024
+T1852,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/2/2024
+T1679,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/4/2024
+T1091,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/2/2024
+T1511,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/9/2024
+T1255,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1987,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/1/2024
+T1973,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T2061,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/5/2024
+T1713,Cat Kayu,Cat,Kaleng,1,89000,89000,1/5/2024
+T1962,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/4/2024
+T1963,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1139,Semen,Material Konstruksi,Zak,4,63000,252000,1/8/2024
+T1276,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1543,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1621,Cat Kayu,Cat,Kaleng,4,89000,356000,1/1/2024
+T1880,Kuas,Alat,Buah,1,18000,18000,1/5/2024
+T2010,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1424,Kuas,Alat,Buah,6,18000,108000,1/6/2024
+T1086,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1413,Kuas,Alat,Buah,3,18000,54000,1/9/2024
+T1652,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1596,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1619,Cat Kayu,Cat,Kaleng,6,89000,534000,1/2/2024
+T1288,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/1/2024
+T2019,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T2034,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/7/2024
+T1146,Kuas,Alat,Buah,6,18000,108000,1/6/2024
+T1362,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/9/2024
+T1018,Semen,Material Konstruksi,Zak,1,63000,63000,1/3/2024
+T1448,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1140,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/6/2024
+T1092,Semen,Material Konstruksi,Zak,2,63000,126000,1/1/2024
+T1639,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1304,Semen,Material Konstruksi,Zak,7,63000,441000,1/3/2024
+T1816,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1528,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1415,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/9/2024
+T1631,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1335,Semen,Material Konstruksi,Zak,9,63000,567000,1/9/2024
+T1629,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1658,Kuas,Alat,Buah,3,18000,54000,1/2/2024
+T1138,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/5/2024
+T1657,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/3/2024
+T1533,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1291,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/4/2024
+T1684,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1334,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1002,Cat Tembok,Cat,Kaleng,3,232000,696000,1/6/2024
+T1573,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1618,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/2/2024
+T1347,Semen,Material Konstruksi,Zak,9,63000,567000,1/2/2024
+T1249,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/5/2024
+T1484,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1894,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T1990,Semen,Material Konstruksi,Zak,7,63000,441000,1/3/2024
+T1803,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1937,Cat Kayu,Cat,Kaleng,6,89000,534000,1/6/2024
+T2063,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/2/2024
+T1513,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1790,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/2/2024
+T1504,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1060,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/1/2024
+T1922,Cat Kayu,Cat,Kaleng,10,89000,890000,1/4/2024
+T1998,Kuas,Alat,Buah,6,18000,108000,1/5/2024
+T1886,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1339,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/1/2024
+T1574,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/6/2024
+T1607,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/3/2024
+T1689,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1365,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/8/2024
+T1103,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1330,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1687,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1350,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1458,Cat Tembok,Cat,Kaleng,4,232000,928000,1/5/2024
+T1507,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/5/2024
+T1165,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/8/2024
+T1991,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/4/2024
+T1514,Kuas,Alat,Buah,10,18000,180000,1/5/2024
+T1338,Cat Kayu,Cat,Kaleng,10,89000,890000,1/9/2024
+T1682,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/2/2024
+T1210,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/7/2024
+T1694,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1779,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1169,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/4/2024
+T2037,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/2/2024
+T1887,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T1570,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1457,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/6/2024
+T1838,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1405,Semen,Material Konstruksi,Zak,8,63000,504000,1/6/2024
+T1092,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/2/2024
+T1374,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1165,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T1012,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1741,Cat Kayu,Cat,Kaleng,1,89000,89000,1/2/2024
+T1875,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/8/2024
+T2031,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/8/2024
+T1627,Semen,Material Konstruksi,Zak,4,63000,252000,1/7/2024
+T1943,Kuas,Alat,Buah,8,18000,144000,1/5/2024
+T1930,Kuas,Alat,Buah,8,18000,144000,1/3/2024
+T1464,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1606,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/5/2024
+T1944,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/1/2024
+T1363,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T1727,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/4/2024
+T1583,Cat Kayu,Cat,Kaleng,4,89000,356000,1/8/2024
+T1359,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/8/2024
+T1038,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T1100,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/6/2024
+T1165,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1789,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/2/2024
+T1191,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T1734,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/9/2024
+T1180,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1789,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1971,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1830,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T2055,Kuas,Alat,Buah,1,18000,18000,1/9/2024
+T1980,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/2/2024
+T1443,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/7/2024
+T1047,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/2/2024
+T1186,Kuas,Alat,Buah,7,18000,126000,1/9/2024
+T1978,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/9/2024
+T1844,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/6/2024
+T1219,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/5/2024
+T1757,Cat Tembok,Cat,Kaleng,3,232000,696000,1/2/2024
+T1711,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1005,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1826,Cat Tembok,Cat,Kaleng,1,232000,232000,1/5/2024
+T1286,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/5/2024
+T1382,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1275,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/4/2024
+T1931,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1108,Semen,Material Konstruksi,Zak,1,63000,63000,1/7/2024
+T1314,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/7/2024
+T1155,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1757,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T1012,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1605,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/5/2024
+T1935,Kuas,Alat,Buah,1,18000,18000,1/3/2024
+T1713,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/5/2024
+T1925,Kuas,Alat,Buah,4,18000,72000,1/1/2024
+T1648,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/6/2024
+T1139,Semen,Material Konstruksi,Zak,3,63000,189000,1/1/2024
+T1903,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/8/2024
+T2065,Semen,Material Konstruksi,Zak,8,63000,504000,1/3/2024
+T1415,Kuas,Alat,Buah,1,18000,18000,1/5/2024
+T1389,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1492,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/3/2024
+T1226,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1103,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/3/2024
+T2029,Kuas,Alat,Buah,1,18000,18000,1/3/2024
+T2051,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1292,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/3/2024
+T1176,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1976,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/9/2024
+T1699,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/3/2024
+T1795,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1608,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/8/2024
+T1899,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/6/2024
+T1471,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/7/2024
+T1919,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/6/2024
+T1915,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1151,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1463,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/1/2024
+T1161,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/7/2024
+T1139,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T1182,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/1/2024
+T1669,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T1851,Cat Kayu,Cat,Kaleng,9,89000,801000,1/1/2024
+T1445,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/1/2024
+T1249,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/4/2024
+T1983,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/9/2024
+T1624,Cat Kayu,Cat,Kaleng,6,89000,534000,1/7/2024
+T1660,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/3/2024
+T1191,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1137,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/9/2024
+T1502,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/5/2024
+T1548,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1584,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1818,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1731,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/9/2024
+T1673,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1896,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/7/2024
+T1110,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/1/2024
+T1693,Semen,Material Konstruksi,Zak,9,63000,567000,1/5/2024
+T1677,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1528,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/6/2024
+T1848,Semen,Material Konstruksi,Zak,6,63000,378000,1/6/2024
+T1654,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/6/2024
+T2015,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1981,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/1/2024
+T1025,Kuas,Alat,Buah,9,18000,162000,1/5/2024
+T1709,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/2/2024
+T1784,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/9/2024
+T1018,Kuas,Alat,Buah,7,18000,126000,1/3/2024
+T1121,Semen,Material Konstruksi,Zak,3,63000,189000,1/8/2024
+T1362,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/2/2024
+T1799,Semen,Material Konstruksi,Zak,3,63000,189000,1/4/2024
+T1397,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/5/2024
+T1186,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T1757,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1961,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/8/2024
+T1875,Kuas,Alat,Buah,8,18000,144000,1/3/2024
+T1975,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1881,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/5/2024
+T1571,Cat Kayu,Cat,Kaleng,7,89000,623000,1/2/2024
+T1349,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T1493,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/4/2024
+T1287,Kuas,Alat,Buah,6,18000,108000,1/2/2024
+T1607,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T2029,Cat Kayu,Cat,Kaleng,10,89000,890000,1/8/2024
+T1810,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/1/2024
+T1848,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/9/2024
+T1415,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1149,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/7/2024
+T1075,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/7/2024
+T1112,Semen,Material Konstruksi,Zak,2,63000,126000,1/9/2024
+T1713,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/3/2024
+T1029,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T1367,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/9/2024
+T1605,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1115,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/2/2024
+T1404,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1893,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1977,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/6/2024
+T1482,Semen,Material Konstruksi,Zak,3,63000,189000,1/5/2024
+T1490,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1641,Kuas,Alat,Buah,6,18000,108000,1/8/2024
+T1574,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1375,Semen,Material Konstruksi,Zak,1,63000,63000,1/4/2024
+T1089,Cat Kayu,Cat,Kaleng,8,89000,712000,1/4/2024
+T1925,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T1796,Kuas,Alat,Buah,4,18000,72000,1/3/2024
+T1460,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/5/2024
+T2011,Cat Kayu,Cat,Kaleng,7,89000,623000,1/4/2024
+T1830,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/4/2024
+T1223,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T2053,Cat Kayu,Cat,Kaleng,6,89000,534000,1/3/2024
+T1652,Kuas,Alat,Buah,2,18000,36000,1/6/2024
+T1691,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/4/2024
+T2010,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/3/2024
+T1238,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/9/2024
+T1387,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1915,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/7/2024
+T1988,Cat Kayu,Cat,Kaleng,6,89000,534000,1/2/2024
+T1134,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/4/2024
+T1477,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T1414,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1186,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T1315,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/8/2024
+T1244,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1340,Semen,Material Konstruksi,Zak,7,63000,441000,1/4/2024
+T1305,Kuas,Alat,Buah,10,18000,180000,1/1/2024
+T1558,Semen,Material Konstruksi,Zak,1,63000,63000,1/5/2024
+T1530,Kuas,Alat,Buah,2,18000,36000,1/8/2024
+T1011,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/3/2024
+T1961,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1029,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1777,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1553,Semen,Material Konstruksi,Zak,8,63000,504000,1/5/2024
+T1184,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1335,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/2/2024
+T1011,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1200,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T2062,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T1922,Semen,Material Konstruksi,Zak,3,63000,189000,1/2/2024
+T1526,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/5/2024
+T1279,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/5/2024
+T1673,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1035,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/4/2024
+T1439,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/9/2024
+T1147,Semen,Material Konstruksi,Zak,4,63000,252000,1/2/2024
+T1662,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1709,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1680,Kuas,Alat,Buah,7,18000,126000,1/6/2024
+T1108,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/4/2024
+T1767,Kuas,Alat,Buah,8,18000,144000,1/1/2024
+T1784,Cat Kayu,Cat,Kaleng,3,89000,267000,1/3/2024
+T1799,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1325,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1836,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/9/2024
+T1640,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1565,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1527,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/3/2024
+T1192,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/5/2024
+T1705,Semen,Material Konstruksi,Zak,1,63000,63000,1/4/2024
+T1028,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1187,Semen,Material Konstruksi,Zak,3,63000,189000,1/3/2024
+T1275,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T1242,Kuas,Alat,Buah,4,18000,72000,1/6/2024
+T1986,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1110,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1857,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/3/2024
+T2043,Kuas,Alat,Buah,9,18000,162000,1/8/2024
+T1434,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/7/2024
+T1426,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1741,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/1/2024
+T1327,Semen,Material Konstruksi,Zak,3,63000,189000,1/4/2024
+T1262,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/7/2024
+T1651,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/3/2024
+T1045,Cat Kayu,Cat,Kaleng,5,89000,445000,1/5/2024
+T1600,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/6/2024
+T1115,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/6/2024
+T1006,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/6/2024
+T1428,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1537,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1864,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/4/2024
+T1962,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1946,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/6/2024
+T1243,Cat Kayu,Cat,Kaleng,6,89000,534000,1/6/2024
+T2008,Kuas,Alat,Buah,9,18000,162000,1/9/2024
+T1380,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/2/2024
+T1672,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/1/2024
+T1912,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T1070,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/2/2024
+T1919,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/3/2024
+T1755,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/9/2024
+T1558,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/4/2024
+T1303,Cat Kayu,Cat,Kaleng,1,89000,89000,1/7/2024
+T1541,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/6/2024
+T1692,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T1598,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T1597,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1606,Cat Kayu,Cat,Kaleng,2,89000,178000,1/5/2024
+T1032,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/5/2024
+T1904,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1746,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1171,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/6/2024
+T1421,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/5/2024
+T1579,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1604,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1382,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/6/2024
+T1143,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1432,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T1726,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1889,Cat Kayu,Cat,Kaleng,10,89000,890000,1/7/2024
+T1777,Cat Tembok,Cat,Kaleng,3,232000,696000,1/3/2024
+T1588,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/3/2024
+T1519,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/7/2024
+T1596,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T2039,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/3/2024
+T2016,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/7/2024
+T1225,Kuas,Alat,Buah,6,18000,108000,1/9/2024
+T1112,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/5/2024
+T1951,Semen,Material Konstruksi,Zak,10,63000,630000,1/1/2024
+T1011,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/9/2024
+T1936,Semen,Material Konstruksi,Zak,10,63000,630000,1/4/2024
+T1170,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/6/2024
+T1657,Cat Kayu,Cat,Kaleng,9,89000,801000,1/9/2024
+T1110,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/9/2024
+T1731,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/1/2024
+T1993,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/3/2024
+T1605,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1849,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/2/2024
+T1812,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/2/2024
+T1034,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/7/2024
+T1749,Cat Kayu,Cat,Kaleng,10,89000,890000,1/6/2024
+T1704,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1075,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T1890,Semen,Material Konstruksi,Zak,3,63000,189000,1/4/2024
+T1409,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1591,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/6/2024
+T1661,Kuas,Alat,Buah,6,18000,108000,1/3/2024
+T1213,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1064,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/6/2024
+T1063,Kuas,Alat,Buah,3,18000,54000,1/7/2024
+T1312,Kuas,Alat,Buah,2,18000,36000,1/7/2024
+T1679,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1339,Kuas,Alat,Buah,2,18000,36000,1/6/2024
+T1108,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/9/2024
+T1295,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1100,Kuas,Alat,Buah,4,18000,72000,1/6/2024
+T1027,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1057,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/2/2024
+T1248,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/6/2024
+T1770,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/7/2024
+T1145,Cat Kayu,Cat,Kaleng,3,89000,267000,1/1/2024
+T2058,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T1428,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/1/2024
+T1220,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/3/2024
+T2048,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T2065,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1871,Semen,Material Konstruksi,Zak,2,63000,126000,1/7/2024
+T1344,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/6/2024
+T1872,Cat Kayu,Cat,Kaleng,10,89000,890000,1/7/2024
+T1273,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1478,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1620,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1271,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1246,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/5/2024
+T1622,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T1616,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/8/2024
+T1989,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1375,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1307,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1571,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/7/2024
+T1178,Kuas,Alat,Buah,8,18000,144000,1/5/2024
+T1798,Kuas,Alat,Buah,9,18000,162000,1/2/2024
+T1208,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1870,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1697,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/3/2024
+T1851,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T1955,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/3/2024
+T1323,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1182,Kuas,Alat,Buah,3,18000,54000,1/1/2024
+T1466,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/1/2024
+T1231,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1594,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/1/2024
+T1545,Kuas,Alat,Buah,10,18000,180000,1/4/2024
+T1913,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/7/2024
+T1685,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1898,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1687,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/5/2024
+T1826,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/8/2024
+T1904,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1707,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/3/2024
+T1236,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/8/2024
+T1463,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1842,Kuas,Alat,Buah,7,18000,126000,1/5/2024
+T1574,Semen,Material Konstruksi,Zak,2,63000,126000,1/4/2024
+T1382,Cat Kayu,Cat,Kaleng,9,89000,801000,1/1/2024
+T1223,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1115,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T1662,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/2/2024
+T1717,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1803,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/7/2024
+T1701,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/9/2024
+T1351,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/4/2024
+T1545,Semen,Material Konstruksi,Zak,1,63000,63000,1/9/2024
+T1501,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/7/2024
+T1549,Kuas,Alat,Buah,9,18000,162000,1/8/2024
+T1973,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/9/2024
+T1596,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/5/2024
+T1305,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/1/2024
+T1502,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1861,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/6/2024
+T1324,Semen,Material Konstruksi,Zak,7,63000,441000,1/5/2024
+T1708,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1611,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/6/2024
+T1673,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1529,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/7/2024
+T1512,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1124,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/2/2024
+T1227,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T1873,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/8/2024
+T1012,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T1972,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/1/2024
+T1188,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1498,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/2/2024
+T1070,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/8/2024
+T1581,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/6/2024
+T1493,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1362,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/5/2024
+T1690,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/6/2024
+T1839,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T1535,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/7/2024
+T1950,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/3/2024
+T1125,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T1609,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1121,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/1/2024
+T1984,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1568,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1896,Cat Tembok,Cat,Kaleng,2,232000,464000,1/4/2024
+T1320,Cat Kayu,Cat,Kaleng,6,89000,534000,1/3/2024
+T1491,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1847,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T1170,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/1/2024
+T1692,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1589,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T2033,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T1651,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1128,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/6/2024
+T1210,Cat Kayu,Cat,Kaleng,10,89000,890000,1/2/2024
+T1534,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/7/2024
+T1620,Semen,Material Konstruksi,Zak,4,63000,252000,1/7/2024
+T1847,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/7/2024
+T1078,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/3/2024
+T1168,Kuas,Alat,Buah,2,18000,36000,1/9/2024
+T1514,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T2024,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T2033,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/7/2024
+T1916,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/1/2024
+T1055,Semen,Material Konstruksi,Zak,10,63000,630000,1/9/2024
+T1129,Semen,Material Konstruksi,Zak,2,63000,126000,1/4/2024
+T1012,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/9/2024
+T1446,Kuas,Alat,Buah,6,18000,108000,1/1/2024
+T1175,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1428,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1608,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/1/2024
+T1824,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T1835,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/1/2024
+T1817,Semen,Material Konstruksi,Zak,5,63000,315000,1/8/2024
+T1694,Cat Kayu,Cat,Kaleng,5,89000,445000,1/8/2024
+T1495,Semen,Material Konstruksi,Zak,2,63000,126000,1/4/2024
+T1072,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T2018,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/4/2024
+T1558,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/9/2024
+T1530,Cat Kayu,Cat,Kaleng,7,89000,623000,1/4/2024
+T1153,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1449,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1587,Cat Tembok,Cat,Kaleng,1,232000,232000,1/1/2024
+T1566,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1867,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/5/2024
+T2069,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/4/2024
+T1560,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/9/2024
+T1486,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/6/2024
+T1810,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/7/2024
+T1300,Semen,Material Konstruksi,Zak,10,63000,630000,1/4/2024
+T1067,Cat Tembok,Cat,Kaleng,4,232000,928000,1/2/2024
+T1555,Semen,Material Konstruksi,Zak,10,63000,630000,1/1/2024
+T1747,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1745,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/9/2024
+T1303,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1557,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1077,Kuas,Alat,Buah,8,18000,144000,1/3/2024
+T1277,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1479,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/3/2024
+T1564,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1522,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T2032,Cat Kayu,Cat,Kaleng,7,89000,623000,1/3/2024
+T1404,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/8/2024
+T1421,Cat Kayu,Cat,Kaleng,9,89000,801000,1/8/2024
+T1630,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1545,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1962,Semen,Material Konstruksi,Zak,1,63000,63000,1/3/2024
+T1515,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1849,Cat Kayu,Cat,Kaleng,6,89000,534000,1/5/2024
+T2035,Cat Tembok,Cat,Kaleng,2,232000,464000,1/1/2024
+T1391,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/3/2024
+T2025,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/8/2024
+T1468,Cat Kayu,Cat,Kaleng,4,89000,356000,1/4/2024
+T1476,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1853,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/5/2024
+T2043,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/8/2024
+T1904,Kuas,Alat,Buah,7,18000,126000,1/1/2024
+T1085,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1241,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/6/2024
+T1265,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/8/2024
+T1069,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/5/2024
+T1800,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/2/2024
+T1755,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1543,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/9/2024
+T1056,Kuas,Alat,Buah,2,18000,36000,1/4/2024
+T1476,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1257,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/2/2024
+T1595,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T2020,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1583,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/5/2024
+T1176,Kuas,Alat,Buah,4,18000,72000,1/2/2024
+T1942,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T2065,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/3/2024
+T1861,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/3/2024
+T1832,Kuas,Alat,Buah,6,18000,108000,1/8/2024
+T2016,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/8/2024
+T1111,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/5/2024
+T1089,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1588,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/5/2024
+T1638,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/5/2024
+T1985,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1253,Kuas,Alat,Buah,8,18000,144000,1/9/2024
+T1844,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1654,Cat Kayu,Cat,Kaleng,2,89000,178000,1/8/2024
+T1923,Kuas,Alat,Buah,8,18000,144000,1/3/2024
+T1709,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1956,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/5/2024
+T1495,Kuas,Alat,Buah,5,18000,90000,1/1/2024
+T1460,Kuas,Alat,Buah,8,18000,144000,1/7/2024
+T1335,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/5/2024
+T1356,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1949,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/4/2024
+T1098,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/5/2024
+T1614,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/6/2024
+T1544,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1767,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1398,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/5/2024
+T1306,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/6/2024
+T1847,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1214,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1962,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1938,Cat Kayu,Cat,Kaleng,2,89000,178000,1/3/2024
+T1225,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1428,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1865,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1367,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1560,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/6/2024
+T1432,Kuas,Alat,Buah,6,18000,108000,1/9/2024
+T1214,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1246,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1688,Cat Tembok,Cat,Kaleng,2,232000,464000,1/9/2024
+T1706,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/6/2024
+T2016,Semen,Material Konstruksi,Zak,6,63000,378000,1/2/2024
+T1587,Kuas,Alat,Buah,1,18000,18000,1/7/2024
+T1707,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1206,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T2009,Cat Kayu,Cat,Kaleng,5,89000,445000,1/5/2024
+T1205,Cat Tembok,Cat,Kaleng,2,232000,464000,1/4/2024
+T1819,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1427,Kuas,Alat,Buah,9,18000,162000,1/5/2024
+T1324,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/7/2024
+T1452,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/6/2024
+T1391,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/1/2024
+T1084,Semen,Material Konstruksi,Zak,7,63000,441000,1/5/2024
+T1068,Semen,Material Konstruksi,Zak,9,63000,567000,1/9/2024
+T1146,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T2015,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/1/2024
+T1094,Semen,Material Konstruksi,Zak,4,63000,252000,1/6/2024
+T1218,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/5/2024
+T1915,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1155,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/5/2024
+T1018,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/1/2024
+T1276,Semen,Material Konstruksi,Zak,3,63000,189000,1/3/2024
+T1638,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/6/2024
+T1683,Kuas,Alat,Buah,4,18000,72000,1/2/2024
+T1372,Cat Kayu,Cat,Kaleng,8,89000,712000,1/1/2024
+T1848,Kuas,Alat,Buah,9,18000,162000,1/2/2024
+T1503,Cat Tembok,Cat,Kaleng,3,232000,696000,1/7/2024
+T1041,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/4/2024
+T1282,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1836,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/7/2024
+T1757,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/7/2024
+T1423,Semen,Material Konstruksi,Zak,7,63000,441000,1/4/2024
+T1203,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1195,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1722,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T1208,Semen,Material Konstruksi,Zak,8,63000,504000,1/1/2024
+T1418,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/6/2024
+T1724,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1378,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T2050,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/2/2024
+T1988,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1931,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1712,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1593,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1959,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/9/2024
+T1815,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1067,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1139,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/5/2024
+T1379,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/7/2024
+T1585,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1317,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/9/2024
+T1118,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/2/2024
+T1044,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1514,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/6/2024
+T1508,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/1/2024
+T2027,Kuas,Alat,Buah,8,18000,144000,1/7/2024
+T1324,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/9/2024
+T1535,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1954,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/3/2024
+T2016,Cat Tembok,Cat,Kaleng,4,232000,928000,1/5/2024
+T1802,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/8/2024
+T1460,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/4/2024
+T1354,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1179,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/2/2024
+T1533,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/7/2024
+T1441,Cat Tembok,Cat,Kaleng,3,232000,696000,1/8/2024
+T2036,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T1492,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1039,Semen,Material Konstruksi,Zak,9,63000,567000,1/6/2024
+T1516,Cat Tembok,Cat,Kaleng,3,232000,696000,1/7/2024
+T1161,Cat Kayu,Cat,Kaleng,8,89000,712000,1/3/2024
+T1446,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1463,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/9/2024
+T1394,Kuas,Alat,Buah,7,18000,126000,1/6/2024
+T1641,Kuas,Alat,Buah,6,18000,108000,1/6/2024
+T1368,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/8/2024
+T1132,Cat Kayu,Cat,Kaleng,1,89000,89000,1/7/2024
+T1372,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T1681,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/2/2024
+T1015,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1513,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1180,Cat Kayu,Cat,Kaleng,7,89000,623000,1/7/2024
+T1492,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/7/2024
+T1452,Cat Kayu,Cat,Kaleng,6,89000,534000,1/7/2024
+T1223,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/3/2024
+T1636,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1893,Kuas,Alat,Buah,4,18000,72000,1/3/2024
+T1096,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1734,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1337,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/1/2024
+T1670,Cat Tembok,Cat,Kaleng,3,232000,696000,1/7/2024
+T2066,Semen,Material Konstruksi,Zak,9,63000,567000,1/6/2024
+T1702,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/3/2024
+T1125,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/5/2024
+T1229,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/2/2024
+T1084,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/1/2024
+T1386,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/5/2024
+T1254,Cat Kayu,Cat,Kaleng,10,89000,890000,1/8/2024
+T1258,Cat Kayu,Cat,Kaleng,1,89000,89000,1/4/2024
+T1746,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1154,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/6/2024
+T1455,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1831,Semen,Material Konstruksi,Zak,5,63000,315000,1/6/2024
+T1370,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1787,Cat Kayu,Cat,Kaleng,8,89000,712000,1/8/2024
+T1604,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1885,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1847,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1224,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/9/2024
+T1510,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/8/2024
+T1987,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1553,Kuas,Alat,Buah,5,18000,90000,1/7/2024
+T1282,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1922,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1947,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1005,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/6/2024
+T1825,Cat Kayu,Cat,Kaleng,2,89000,178000,1/2/2024
+T1203,Kuas,Alat,Buah,2,18000,36000,1/6/2024
+T1535,Cat Kayu,Cat,Kaleng,4,89000,356000,1/4/2024
+T1762,Semen,Material Konstruksi,Zak,1,63000,63000,1/1/2024
+T1748,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T1981,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T1539,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/4/2024
+T1242,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/6/2024
+T1704,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/3/2024
+T1396,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/2/2024
+T1296,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/2/2024
+T1314,Kuas,Alat,Buah,7,18000,126000,1/7/2024
+T1048,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T2000,Cat Kayu,Cat,Kaleng,2,89000,178000,1/7/2024
+T1497,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/5/2024
+T1055,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1438,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/9/2024
+T1306,Cat Tembok,Cat,Kaleng,1,232000,232000,1/6/2024
+T1356,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/5/2024
+T1067,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1433,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1065,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T1038,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1670,Cat Kayu,Cat,Kaleng,1,89000,89000,1/3/2024
+T1100,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1870,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1754,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/9/2024
+T1139,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/7/2024
+T1505,Kuas,Alat,Buah,3,18000,54000,1/1/2024
+T1928,Cat Kayu,Cat,Kaleng,10,89000,890000,1/4/2024
+T1008,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/9/2024
+T1389,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1753,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/9/2024
+T1719,Semen,Material Konstruksi,Zak,7,63000,441000,1/3/2024
+T1061,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1254,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/4/2024
+T1997,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/4/2024
+T1519,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1926,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T1541,Semen,Material Konstruksi,Zak,3,63000,189000,1/2/2024
+T1696,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/9/2024
+T1429,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/4/2024
+T1742,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/3/2024
+T1808,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1057,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/8/2024
+T1996,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/7/2024
+T1396,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/3/2024
+T1810,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/1/2024
+T1449,Semen,Material Konstruksi,Zak,4,63000,252000,1/7/2024
+T1657,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/5/2024
+T1947,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1490,Cat Kayu,Cat,Kaleng,2,89000,178000,1/8/2024
+T1878,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1280,Cat Tembok,Cat,Kaleng,4,232000,928000,1/3/2024
+T1210,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1026,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T1412,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/7/2024
+T1228,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/3/2024
+T1523,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1731,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1132,Cat Kayu,Cat,Kaleng,1,89000,89000,1/6/2024
+T1017,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1550,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1421,Semen,Material Konstruksi,Zak,1,63000,63000,1/2/2024
+T1557,Semen,Material Konstruksi,Zak,6,63000,378000,1/2/2024
+T1657,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/9/2024
+T1445,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/6/2024
+T1773,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1943,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/7/2024
+T1600,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/5/2024
+T1250,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T1920,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T2057,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T2022,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1703,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/1/2024
+T1614,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1834,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1128,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/2/2024
+T1943,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1355,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/7/2024
+T1654,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1769,Semen,Material Konstruksi,Zak,3,63000,189000,1/8/2024
+T1165,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1505,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T1857,Semen,Material Konstruksi,Zak,5,63000,315000,1/2/2024
+T1760,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/1/2024
+T1378,Cat Kayu,Cat,Kaleng,10,89000,890000,1/6/2024
+T2040,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1075,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/7/2024
+T1301,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1392,Kuas,Alat,Buah,5,18000,90000,1/5/2024
+T2008,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1422,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1616,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/3/2024
+T1100,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/5/2024
+T1940,Cat Kayu,Cat,Kaleng,4,89000,356000,1/5/2024
+T1659,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/2/2024
+T1927,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/6/2024
+T1736,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1012,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1370,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/3/2024
+T1696,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1467,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1199,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1507,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T1550,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/9/2024
+T1999,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/2/2024
+T1699,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T1830,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/5/2024
+T1977,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1515,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/5/2024
+T2023,Kuas,Alat,Buah,3,18000,54000,1/2/2024
+T1781,Kuas,Alat,Buah,5,18000,90000,1/1/2024
+T1400,Semen,Material Konstruksi,Zak,9,63000,567000,1/7/2024
+T1185,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T1588,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/2/2024
+T1928,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1730,Semen,Material Konstruksi,Zak,3,63000,189000,1/6/2024
+T1612,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/2/2024
+T1841,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/8/2024
+T1444,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T2017,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T1020,Cat Tembok,Cat,Kaleng,1,232000,232000,1/2/2024
+T1808,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/6/2024
+T1436,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1102,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1812,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1813,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1767,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1287,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T2060,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/9/2024
+T1915,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/6/2024
+T1925,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1998,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1395,Kuas,Alat,Buah,3,18000,54000,1/5/2024
+T1083,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T1817,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/6/2024
+T1882,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1438,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/2/2024
+T1904,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/3/2024
+T1934,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/8/2024
+T1020,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1371,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1845,Kuas,Alat,Buah,5,18000,90000,1/8/2024
+T1370,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/3/2024
+T1967,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1554,Semen,Material Konstruksi,Zak,1,63000,63000,1/2/2024
+T1717,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/3/2024
+T1769,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/7/2024
+T1221,Semen,Material Konstruksi,Zak,7,63000,441000,1/1/2024
+T1849,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1279,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1974,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1320,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/2/2024
+T1379,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/7/2024
+T1745,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1378,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/2/2024
+T1617,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1099,Cat Kayu,Cat,Kaleng,8,89000,712000,1/5/2024
+T1285,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1737,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1475,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1408,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/7/2024
+T1834,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/4/2024
+T1834,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/7/2024
+T1454,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1520,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T1815,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T2062,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/7/2024
+T1323,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T1928,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1104,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1762,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/8/2024
+T1224,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/2/2024
+T1443,Kuas,Alat,Buah,8,18000,144000,1/1/2024
+T1748,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1288,Semen,Material Konstruksi,Zak,4,63000,252000,1/8/2024
+T1893,Cat Kayu,Cat,Kaleng,1,89000,89000,1/8/2024
+T1136,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1436,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1763,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/7/2024
+T2031,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/7/2024
+T1037,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1347,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/8/2024
+T1307,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1443,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/1/2024
+T1852,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1114,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1824,Semen,Material Konstruksi,Zak,4,63000,252000,1/8/2024
+T1232,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/3/2024
+T1176,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/9/2024
+T1052,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1384,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1797,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/8/2024
+T1854,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T1021,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/8/2024
+T1191,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T1230,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1353,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/7/2024
+T1344,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1140,Semen,Material Konstruksi,Zak,2,63000,126000,1/2/2024
+T1356,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/9/2024
+T1858,Kuas,Alat,Buah,8,18000,144000,1/9/2024
+T1620,Kuas,Alat,Buah,5,18000,90000,1/5/2024
+T1667,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/9/2024
+T1046,Cat Tembok,Cat,Kaleng,3,232000,696000,1/7/2024
+T1061,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T2009,Cat Kayu,Cat,Kaleng,7,89000,623000,1/6/2024
+T1602,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/1/2024
+T1751,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T1880,Kuas,Alat,Buah,10,18000,180000,1/2/2024
+T1375,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1860,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/9/2024
+T1502,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/1/2024
+T1687,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1974,Kuas,Alat,Buah,2,18000,36000,1/6/2024
+T1225,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/6/2024
+T1209,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/8/2024
+T1755,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/6/2024
+T1843,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/5/2024
+T1132,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1220,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/6/2024
+T1787,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1689,Kuas,Alat,Buah,5,18000,90000,1/2/2024
+T1160,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/6/2024
+T1966,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1823,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/7/2024
+T1700,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T2067,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/1/2024
+T1511,Cat Tembok,Cat,Kaleng,4,232000,928000,1/2/2024
+T1266,Semen,Material Konstruksi,Zak,4,63000,252000,1/6/2024
+T1701,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/2/2024
+T1871,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/6/2024
+T1322,Cat Kayu,Cat,Kaleng,8,89000,712000,1/2/2024
+T1082,Cat Kayu,Cat,Kaleng,3,89000,267000,1/6/2024
+T1691,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/7/2024
+T1395,Semen,Material Konstruksi,Zak,1,63000,63000,1/7/2024
+T1048,Kuas,Alat,Buah,1,18000,18000,1/4/2024
+T1535,Cat Kayu,Cat,Kaleng,5,89000,445000,1/7/2024
+T1638,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/1/2024
+T1966,Kuas,Alat,Buah,1,18000,18000,1/8/2024
+T1446,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1652,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/7/2024
+T1228,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/7/2024
+T1988,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/2/2024
+T1074,Kuas,Alat,Buah,9,18000,162000,1/2/2024
+T1028,Kuas,Alat,Buah,4,18000,72000,1/2/2024
+T1939,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1228,Kuas,Alat,Buah,6,18000,108000,1/2/2024
+T1572,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/7/2024
+T1325,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1323,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/6/2024
+T1164,Semen,Material Konstruksi,Zak,9,63000,567000,1/7/2024
+T1192,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/3/2024
+T2033,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/1/2024
+T1339,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1465,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1604,Semen,Material Konstruksi,Zak,7,63000,441000,1/4/2024
+T1820,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1513,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/7/2024
+T2029,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/4/2024
+T1600,Cat Kayu,Cat,Kaleng,6,89000,534000,1/7/2024
+T1160,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1148,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1386,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/9/2024
+T1597,Cat Tembok,Cat,Kaleng,1,232000,232000,1/2/2024
+T1140,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1588,Cat Kayu,Cat,Kaleng,10,89000,890000,1/9/2024
+T1750,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1702,Semen,Material Konstruksi,Zak,3,63000,189000,1/1/2024
+T1056,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/7/2024
+T1737,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/6/2024
+T1971,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/7/2024
+T1248,Kuas,Alat,Buah,10,18000,180000,1/5/2024
+T1389,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/2/2024
+T1857,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1175,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/6/2024
+T1738,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/1/2024
+T1715,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/6/2024
+T1313,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/8/2024
+T1127,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1699,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/2/2024
+T1810,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/6/2024
+T1830,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/4/2024
+T2009,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/7/2024
+T1599,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/2/2024
+T1993,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/7/2024
+T1132,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/1/2024
+T1768,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/3/2024
+T1470,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/5/2024
+T1395,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1864,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1023,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1437,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/2/2024
+T1586,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T1848,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1938,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1909,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/3/2024
+T1633,Semen,Material Konstruksi,Zak,8,63000,504000,1/2/2024
+T1742,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1801,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/1/2024
+T1339,Semen,Material Konstruksi,Zak,9,63000,567000,1/5/2024
+T1167,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T1149,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/2/2024
+T1645,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1783,Kuas,Alat,Buah,5,18000,90000,1/1/2024
+T1486,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/3/2024
+T1191,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/6/2024
+T1797,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1201,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1036,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/4/2024
+T1764,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1539,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/3/2024
+T1393,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/1/2024
+T1699,Cat Kayu,Cat,Kaleng,9,89000,801000,1/3/2024
+T1917,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/9/2024
+T1567,Kuas,Alat,Buah,7,18000,126000,1/7/2024
+T2032,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1699,Semen,Material Konstruksi,Zak,3,63000,189000,1/6/2024
+T1168,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T2051,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/4/2024
+T1103,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/6/2024
+T1768,Cat Kayu,Cat,Kaleng,2,89000,178000,1/7/2024
+T1899,Cat Kayu,Cat,Kaleng,1,89000,89000,1/4/2024
+T1545,Kuas,Alat,Buah,9,18000,162000,1/1/2024
+T1316,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1332,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T1539,Cat Kayu,Cat,Kaleng,1,89000,89000,1/7/2024
+T1908,Semen,Material Konstruksi,Zak,1,63000,63000,1/3/2024
+T1521,Semen,Material Konstruksi,Zak,9,63000,567000,1/8/2024
+T1708,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1559,Semen,Material Konstruksi,Zak,4,63000,252000,1/9/2024
+T1355,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1264,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/6/2024
+T1801,Kuas,Alat,Buah,10,18000,180000,1/6/2024
+T1349,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/2/2024
+T1583,Semen,Material Konstruksi,Zak,5,63000,315000,1/2/2024
+T1146,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1788,Cat Kayu,Cat,Kaleng,4,89000,356000,1/2/2024
+T1841,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/2/2024
+T1758,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1601,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1508,Semen,Material Konstruksi,Zak,3,63000,189000,1/3/2024
+T1476,Semen,Material Konstruksi,Zak,6,63000,378000,1/9/2024
+T1665,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/8/2024
+T1530,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/9/2024
+T1524,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/9/2024
+T1143,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/9/2024
+T1972,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1455,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/9/2024
+T1949,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/8/2024
+T1329,Cat Kayu,Cat,Kaleng,9,89000,801000,1/7/2024
+T1381,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/6/2024
+T1449,Semen,Material Konstruksi,Zak,3,63000,189000,1/9/2024
+T1019,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T2054,Semen,Material Konstruksi,Zak,6,63000,378000,1/8/2024
+T1252,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/3/2024
+T1222,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/3/2024
+T1227,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/1/2024
+T1701,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1290,Cat Kayu,Cat,Kaleng,4,89000,356000,1/5/2024
+T2027,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/8/2024
+T1435,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/4/2024
+T1076,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/6/2024
+T1087,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1539,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1981,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/9/2024
+T1351,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1652,Semen,Material Konstruksi,Zak,8,63000,504000,1/2/2024
+T2026,Semen,Material Konstruksi,Zak,8,63000,504000,1/4/2024
+T1062,Cat Kayu,Cat,Kaleng,1,89000,89000,1/1/2024
+T1954,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/2/2024
+T1829,Kuas,Alat,Buah,1,18000,18000,1/7/2024
+T1557,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/6/2024
+T1939,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1661,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/4/2024
+T1557,Semen,Material Konstruksi,Zak,8,63000,504000,1/9/2024
+T1060,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/9/2024
+T1627,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1309,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/4/2024
+T1337,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/3/2024
+T1622,Semen,Material Konstruksi,Zak,7,63000,441000,1/1/2024
+T1132,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1375,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1075,Cat Kayu,Cat,Kaleng,7,89000,623000,1/4/2024
+T1328,Cat Kayu,Cat,Kaleng,3,89000,267000,1/9/2024
+T1641,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1008,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1652,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1416,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1147,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1536,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/5/2024
+T1125,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/2/2024
+T1627,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/1/2024
+T1280,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1616,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1520,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/6/2024
+T1013,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/1/2024
+T1942,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1071,Kuas,Alat,Buah,3,18000,54000,1/2/2024
+T1354,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/7/2024
+T1987,Semen,Material Konstruksi,Zak,8,63000,504000,1/7/2024
+T1361,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1345,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T1718,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1599,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/6/2024
+T2051,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1988,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1203,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/5/2024
+T2054,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1252,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1298,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1331,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/4/2024
+T1873,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1441,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1568,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/2/2024
+T1753,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/8/2024
+T1085,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1904,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/3/2024
+T1788,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1773,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/5/2024
+T1411,Semen,Material Konstruksi,Zak,4,63000,252000,1/5/2024
+T1191,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1584,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1933,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T1859,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T1148,Cat Tembok,Cat,Kaleng,3,232000,696000,1/3/2024
+T1375,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1924,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/1/2024
+T1329,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/9/2024
+T1432,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1538,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/9/2024
+T1256,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/7/2024
+T1808,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/5/2024
+T1549,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/2/2024
+T1985,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/7/2024
+T1797,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/5/2024
+T1210,Kuas,Alat,Buah,7,18000,126000,1/4/2024
+T2046,Kuas,Alat,Buah,8,18000,144000,1/8/2024
+T1680,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1243,Cat Kayu,Cat,Kaleng,9,89000,801000,1/7/2024
+T1072,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/4/2024
+T1273,Semen,Material Konstruksi,Zak,8,63000,504000,1/1/2024
+T1542,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1781,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1831,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1997,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/7/2024
+T1515,Semen,Material Konstruksi,Zak,8,63000,504000,1/9/2024
+T1394,Semen,Material Konstruksi,Zak,2,63000,126000,1/1/2024
+T1622,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/5/2024
+T1384,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/6/2024
+T1567,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/6/2024
+T1973,Cat Kayu,Cat,Kaleng,2,89000,178000,1/5/2024
+T1966,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T1059,Semen,Material Konstruksi,Zak,5,63000,315000,1/1/2024
+T1037,Semen,Material Konstruksi,Zak,1,63000,63000,1/9/2024
+T1382,Semen,Material Konstruksi,Zak,5,63000,315000,1/9/2024
+T1432,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T1901,Semen,Material Konstruksi,Zak,5,63000,315000,1/9/2024
+T1256,Semen,Material Konstruksi,Zak,9,63000,567000,1/3/2024
+T1315,Semen,Material Konstruksi,Zak,3,63000,189000,1/2/2024
+T1419,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/1/2024
+T1433,Semen,Material Konstruksi,Zak,4,63000,252000,1/3/2024
+T1963,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/1/2024
+T1045,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1229,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1087,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/8/2024
+T1600,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1060,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/9/2024
+T1557,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1986,Kuas,Alat,Buah,4,18000,72000,1/4/2024
+T1111,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1382,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/1/2024
+T1116,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1643,Cat Kayu,Cat,Kaleng,1,89000,89000,1/5/2024
+T1146,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/1/2024
+T1062,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1679,Semen,Material Konstruksi,Zak,4,63000,252000,1/6/2024
+T1460,Cat Kayu,Cat,Kaleng,9,89000,801000,1/2/2024
+T1336,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/7/2024
+T2011,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1978,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T1572,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/7/2024
+T1241,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1895,Semen,Material Konstruksi,Zak,7,63000,441000,1/5/2024
+T1122,Cat Tembok,Cat,Kaleng,1,232000,232000,1/6/2024
+T1848,Semen,Material Konstruksi,Zak,9,63000,567000,1/7/2024
+T1765,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/5/2024
+T1825,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/8/2024
+T1656,Kuas,Alat,Buah,9,18000,162000,1/7/2024
+T1556,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/1/2024
+T1051,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1299,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/8/2024
+T1027,Cat Kayu,Cat,Kaleng,4,89000,356000,1/5/2024
+T1590,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T2001,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/8/2024
+T1128,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1478,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1466,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1188,Semen,Material Konstruksi,Zak,4,63000,252000,1/4/2024
+T1416,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1852,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T1276,Kuas,Alat,Buah,4,18000,72000,1/5/2024
+T1040,Cat Kayu,Cat,Kaleng,10,89000,890000,1/3/2024
+T1540,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/7/2024
+T1789,Cat Tembok,Cat,Kaleng,1,232000,232000,1/1/2024
+T1332,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/6/2024
+T1869,Semen,Material Konstruksi,Zak,7,63000,441000,1/7/2024
+T1796,Semen,Material Konstruksi,Zak,1,63000,63000,1/5/2024
+T1557,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1471,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/9/2024
+T1563,Cat Tembok,Cat,Kaleng,2,232000,464000,1/2/2024
+T1598,Semen,Material Konstruksi,Zak,3,63000,189000,1/1/2024
+T1247,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/5/2024
+T1572,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1492,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/7/2024
+T1308,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1455,Semen,Material Konstruksi,Zak,5,63000,315000,1/4/2024
+T1964,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/1/2024
+T1633,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/1/2024
+T1565,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/1/2024
+T1527,Semen,Material Konstruksi,Zak,8,63000,504000,1/5/2024
+T1798,Kuas,Alat,Buah,8,18000,144000,1/4/2024
+T1840,Semen,Material Konstruksi,Zak,10,63000,630000,1/3/2024
+T1105,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/3/2024
+T1845,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/3/2024
+T1407,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/9/2024
+T1638,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/5/2024
+T1814,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/6/2024
+T1166,Semen,Material Konstruksi,Zak,5,63000,315000,1/4/2024
+T1996,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T1992,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/2/2024
+T1489,Cat Tembok,Cat,Kaleng,4,232000,928000,1/6/2024
+T1485,Semen,Material Konstruksi,Zak,9,63000,567000,1/4/2024
+T1086,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/3/2024
+T1439,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/4/2024
+T1734,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1410,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/4/2024
+T2060,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/7/2024
+T1380,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1165,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/6/2024
+T1979,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1191,Semen,Material Konstruksi,Zak,10,63000,630000,1/4/2024
+T1495,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1008,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T2031,Semen,Material Konstruksi,Zak,9,63000,567000,1/2/2024
+T1203,Semen,Material Konstruksi,Zak,1,63000,63000,1/6/2024
+T1516,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/2/2024
+T1832,Semen,Material Konstruksi,Zak,2,63000,126000,1/3/2024
+T1386,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1679,Cat Kayu,Cat,Kaleng,7,89000,623000,1/3/2024
+T1884,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1783,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/6/2024
+T1746,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/5/2024
+T1819,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/1/2024
+T1695,Cat Kayu,Cat,Kaleng,9,89000,801000,1/5/2024
+T1032,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/9/2024
+T1392,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/9/2024
+T2052,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/7/2024
+T1225,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T2046,Cat Kayu,Cat,Kaleng,3,89000,267000,1/7/2024
+T1472,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/9/2024
+T1316,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1885,Semen,Material Konstruksi,Zak,7,63000,441000,1/4/2024
+T1257,Semen,Material Konstruksi,Zak,9,63000,567000,1/8/2024
+T1122,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1259,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1727,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/5/2024
+T1541,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1212,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/2/2024
+T1426,Cat Kayu,Cat,Kaleng,8,89000,712000,1/2/2024
+T1153,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/1/2024
+T1982,Cat Kayu,Cat,Kaleng,1,89000,89000,1/8/2024
+T1739,Cat Tembok,Cat,Kaleng,3,232000,696000,1/3/2024
+T1541,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1827,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1329,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/9/2024
+T1291,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1089,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/4/2024
+T1672,Semen,Material Konstruksi,Zak,4,63000,252000,1/5/2024
+T1781,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1338,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1606,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1821,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1018,Kuas,Alat,Buah,6,18000,108000,1/1/2024
+T1988,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1694,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1106,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T1897,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/6/2024
+T1601,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1623,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/5/2024
+T1222,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/8/2024
+T1792,Cat Tembok,Cat,Kaleng,2,232000,464000,1/4/2024
+T1960,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/4/2024
+T1475,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/6/2024
+T1173,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T1627,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1710,Kuas,Alat,Buah,9,18000,162000,1/1/2024
+T1498,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/9/2024
+T1540,Kuas,Alat,Buah,6,18000,108000,1/6/2024
+T1761,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1466,Kuas,Alat,Buah,10,18000,180000,1/5/2024
+T1684,Kuas,Alat,Buah,3,18000,54000,1/2/2024
+T1227,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1301,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1443,Cat Kayu,Cat,Kaleng,1,89000,89000,1/1/2024
+T1738,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/6/2024
+T1982,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/1/2024
+T1745,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/5/2024
+T1043,Cat Kayu,Cat,Kaleng,2,89000,178000,1/3/2024
+T1224,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1897,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/1/2024
+T1737,Kuas,Alat,Buah,2,18000,36000,1/7/2024
+T1565,Kuas,Alat,Buah,10,18000,180000,1/5/2024
+T1266,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1159,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/4/2024
+T1501,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/6/2024
+T1740,Cat Kayu,Cat,Kaleng,1,89000,89000,1/6/2024
+T1897,Semen,Material Konstruksi,Zak,9,63000,567000,1/8/2024
+T1390,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/4/2024
+T1232,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1676,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/2/2024
+T1490,Kuas,Alat,Buah,8,18000,144000,1/7/2024
+T1645,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/2/2024
+T1638,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/9/2024
+T1063,Kuas,Alat,Buah,2,18000,36000,1/7/2024
+T2026,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/1/2024
+T1367,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/4/2024
+T1243,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/6/2024
+T2040,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/8/2024
+T1930,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/2/2024
+T1758,Cat Kayu,Cat,Kaleng,1,89000,89000,1/3/2024
+T1546,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T2001,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1054,Cat Tembok,Cat,Kaleng,3,232000,696000,1/7/2024
+T1599,Semen,Material Konstruksi,Zak,3,63000,189000,1/9/2024
+T1603,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1646,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/1/2024
+T1412,Semen,Material Konstruksi,Zak,9,63000,567000,1/7/2024
+T1395,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/6/2024
+T1080,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/4/2024
+T1881,Cat Tembok,Cat,Kaleng,1,232000,232000,1/5/2024
+T1467,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T2019,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1438,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T1150,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/6/2024
+T1912,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1675,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T1366,Kuas,Alat,Buah,10,18000,180000,1/8/2024
+T1254,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1189,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1755,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/7/2024
+T1054,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/3/2024
+T1258,Cat Kayu,Cat,Kaleng,3,89000,267000,1/7/2024
+T1296,Semen,Material Konstruksi,Zak,9,63000,567000,1/6/2024
+T1090,Cat Kayu,Cat,Kaleng,3,89000,267000,1/8/2024
+T1268,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/3/2024
+T1796,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1715,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1193,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/2/2024
+T1854,Cat Tembok,Cat,Kaleng,3,232000,696000,1/9/2024
+T1664,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T1278,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T2004,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/2/2024
+T1504,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/4/2024
+T1674,Semen,Material Konstruksi,Zak,4,63000,252000,1/6/2024
+T1901,Kuas,Alat,Buah,8,18000,144000,1/6/2024
+T1713,Cat Kayu,Cat,Kaleng,10,89000,890000,1/7/2024
+T1969,Cat Tembok,Cat,Kaleng,4,232000,928000,1/9/2024
+T1161,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/5/2024
+T1837,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/2/2024
+T1472,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/5/2024
+T1855,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1448,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1061,Cat Tembok,Cat,Kaleng,1,232000,232000,1/5/2024
+T1890,Cat Tembok,Cat,Kaleng,1,232000,232000,1/6/2024
+T2048,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/9/2024
+T1132,Semen,Material Konstruksi,Zak,3,63000,189000,1/9/2024
+T1515,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/5/2024
+T1577,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1761,Semen,Material Konstruksi,Zak,1,63000,63000,1/7/2024
+T1928,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/2/2024
+T1697,Kuas,Alat,Buah,9,18000,162000,1/2/2024
+T1528,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/9/2024
+T1968,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/4/2024
+T1073,Cat Tembok,Cat,Kaleng,1,232000,232000,1/4/2024
+T1207,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1330,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/8/2024
+T1073,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1331,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/9/2024
+T1454,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/3/2024
+T1227,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/2/2024
+T2017,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1835,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T2019,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/3/2024
+T1111,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/2/2024
+T1596,Kuas,Alat,Buah,5,18000,90000,1/7/2024
+T1991,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/9/2024
+T1392,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/2/2024
+T1445,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1132,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/4/2024
+T1137,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1900,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/6/2024
+T1186,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1871,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/8/2024
+T2057,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T1018,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1174,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1862,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/3/2024
+T1579,Cat Tembok,Cat,Kaleng,1,232000,232000,1/2/2024
+T1822,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1640,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/8/2024
+T1490,Semen,Material Konstruksi,Zak,3,63000,189000,1/5/2024
+T1248,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1823,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1528,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1752,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1716,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1017,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1318,Cat Kayu,Cat,Kaleng,10,89000,890000,1/9/2024
+T1265,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/4/2024
+T1412,Kuas,Alat,Buah,8,18000,144000,1/1/2024
+T1722,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/5/2024
+T1774,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1738,Semen,Material Konstruksi,Zak,10,63000,630000,1/9/2024
+T1718,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/8/2024
+T1120,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1785,Cat Kayu,Cat,Kaleng,4,89000,356000,1/3/2024
+T1908,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1292,Cat Kayu,Cat,Kaleng,3,89000,267000,1/5/2024
+T1889,Cat Tembok,Cat,Kaleng,3,232000,696000,1/4/2024
+T1959,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1519,Semen,Material Konstruksi,Zak,8,63000,504000,1/5/2024
+T1651,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T2052,Kuas,Alat,Buah,4,18000,72000,1/9/2024
+T1094,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/1/2024
+T1929,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T2042,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1138,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/5/2024
+T1675,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1139,Cat Kayu,Cat,Kaleng,5,89000,445000,1/3/2024
+T1136,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/6/2024
+T1661,Cat Kayu,Cat,Kaleng,1,89000,89000,1/6/2024
+T1414,Cat Tembok,Cat,Kaleng,3,232000,696000,1/3/2024
+T1681,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/2/2024
+T1121,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/7/2024
+T1600,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/4/2024
+T1381,Kuas,Alat,Buah,9,18000,162000,1/8/2024
+T1932,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/5/2024
+T1663,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1573,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1169,Cat Kayu,Cat,Kaleng,5,89000,445000,1/2/2024
+T1983,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T1056,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/7/2024
+T2054,Cat Kayu,Cat,Kaleng,1,89000,89000,1/6/2024
+T1417,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1255,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/1/2024
+T1234,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1570,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T1947,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/6/2024
+T1899,Cat Kayu,Cat,Kaleng,5,89000,445000,1/2/2024
+T1347,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/1/2024
+T1307,Kuas,Alat,Buah,6,18000,108000,1/9/2024
+T1157,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/2/2024
+T1422,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/8/2024
+T2068,Cat Tembok,Cat,Kaleng,2,232000,464000,1/8/2024
+T1651,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T1178,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/7/2024
+T2042,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1869,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/8/2024
+T1437,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1564,Kuas,Alat,Buah,4,18000,72000,1/2/2024
+T1754,Kuas,Alat,Buah,6,18000,108000,1/3/2024
+T2031,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1607,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1004,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/1/2024
+T1007,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/9/2024
+T1539,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/3/2024
+T1206,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/5/2024
+T1233,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1591,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/2/2024
+T1439,Kuas,Alat,Buah,8,18000,144000,1/8/2024
+T1418,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1214,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1502,Semen,Material Konstruksi,Zak,6,63000,378000,1/5/2024
+T1154,Cat Kayu,Cat,Kaleng,7,89000,623000,1/3/2024
+T1992,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/2/2024
+T1954,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1998,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T2038,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/4/2024
+T1711,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T1371,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/8/2024
+T1756,Semen,Material Konstruksi,Zak,8,63000,504000,1/1/2024
+T1067,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/8/2024
+T1390,Cat Kayu,Cat,Kaleng,1,89000,89000,1/1/2024
+T1306,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/6/2024
+T1924,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/1/2024
+T1407,Cat Kayu,Cat,Kaleng,6,89000,534000,1/1/2024
+T1650,Cat Kayu,Cat,Kaleng,3,89000,267000,1/8/2024
+T2062,Kuas,Alat,Buah,10,18000,180000,1/5/2024
+T1849,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1460,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/3/2024
+T1548,Kuas,Alat,Buah,5,18000,90000,1/6/2024
+T2031,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1148,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/8/2024
+T1654,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/5/2024
+T1554,Cat Tembok,Cat,Kaleng,1,232000,232000,1/9/2024
+T1553,Cat Kayu,Cat,Kaleng,9,89000,801000,1/4/2024
+T1545,Cat Kayu,Cat,Kaleng,4,89000,356000,1/1/2024
+T1708,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T2030,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/4/2024
+T1941,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1270,Semen,Material Konstruksi,Zak,5,63000,315000,1/4/2024
+T1308,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1874,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/7/2024
+T1196,Cat Kayu,Cat,Kaleng,10,89000,890000,1/5/2024
+T1989,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/4/2024
+T1241,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/5/2024
+T1619,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1667,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/2/2024
+T1611,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1406,Semen,Material Konstruksi,Zak,7,63000,441000,1/2/2024
+T1014,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/3/2024
+T1613,Cat Tembok,Cat,Kaleng,3,232000,696000,1/4/2024
+T1386,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/5/2024
+T1327,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1695,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/9/2024
+T1598,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/5/2024
+T1313,Cat Kayu,Cat,Kaleng,1,89000,89000,1/3/2024
+T1409,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1770,Semen,Material Konstruksi,Zak,9,63000,567000,1/3/2024
+T1545,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/9/2024
+T1274,Kuas,Alat,Buah,8,18000,144000,1/6/2024
+T1677,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/3/2024
+T1474,Cat Tembok,Cat,Kaleng,3,232000,696000,1/8/2024
+T2036,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T1097,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T2024,Cat Kayu,Cat,Kaleng,7,89000,623000,1/5/2024
+T2067,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/2/2024
+T1252,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/4/2024
+T1473,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1274,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1263,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/3/2024
+T1534,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/2/2024
+T1174,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/4/2024
+T1054,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1598,Semen,Material Konstruksi,Zak,3,63000,189000,1/4/2024
+T1027,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1981,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1801,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1907,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/2/2024
+T1454,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/8/2024
+T1976,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T1952,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/1/2024
+T1972,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/6/2024
+T1363,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T1873,Cat Kayu,Cat,Kaleng,3,89000,267000,1/3/2024
+T1043,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1848,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1798,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T1944,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/4/2024
+T2017,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1840,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/7/2024
+T1042,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1534,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1931,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1760,Cat Kayu,Cat,Kaleng,3,89000,267000,1/3/2024
+T1959,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/6/2024
+T1631,Semen,Material Konstruksi,Zak,6,63000,378000,1/9/2024
+T1558,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/5/2024
+T1921,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/6/2024
+T1676,Cat Kayu,Cat,Kaleng,1,89000,89000,1/5/2024
+T1478,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/7/2024
+T1523,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1857,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1269,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/4/2024
+T1540,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/3/2024
+T1617,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/3/2024
+T1863,Cat Kayu,Cat,Kaleng,3,89000,267000,1/5/2024
+T1761,Semen,Material Konstruksi,Zak,6,63000,378000,1/4/2024
+T1057,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/3/2024
+T1614,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1087,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/4/2024
+T2057,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T2012,Kuas,Alat,Buah,1,18000,18000,1/4/2024
+T1535,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1805,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/6/2024
+T1895,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/3/2024
+T1317,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/2/2024
+T1372,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1477,Cat Kayu,Cat,Kaleng,1,89000,89000,1/9/2024
+T1530,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T2060,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/1/2024
+T1087,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1744,Kuas,Alat,Buah,5,18000,90000,1/7/2024
+T1557,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T2051,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/7/2024
+T1510,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/2/2024
+T1570,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1096,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/8/2024
+T1619,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/9/2024
+T1319,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/4/2024
+T1543,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1702,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/9/2024
+T1020,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/7/2024
+T1370,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1281,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/2/2024
+T1439,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1728,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/1/2024
+T1094,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1938,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1984,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T1574,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1039,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/8/2024
+T1545,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/4/2024
+T1429,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/6/2024
+T1132,Kuas,Alat,Buah,8,18000,144000,1/4/2024
+T1865,Semen,Material Konstruksi,Zak,7,63000,441000,1/7/2024
+T1597,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/5/2024
+T1854,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/6/2024
+T1600,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1149,Cat Kayu,Cat,Kaleng,9,89000,801000,1/7/2024
+T1782,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1491,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/4/2024
+T1172,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1010,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/3/2024
+T1930,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/1/2024
+T1854,Cat Tembok,Cat,Kaleng,4,232000,928000,1/5/2024
+T1396,Cat Kayu,Cat,Kaleng,1,89000,89000,1/4/2024
+T1459,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T2040,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/1/2024
+T1968,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/5/2024
+T1717,Kuas,Alat,Buah,1,18000,18000,1/1/2024
+T1992,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/1/2024
+T1864,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/3/2024
+T1050,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1595,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/3/2024
+T1195,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1111,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/7/2024
+T1025,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/6/2024
+T1748,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/2/2024
+T1661,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1789,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T2049,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/5/2024
+T1033,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/8/2024
+T1565,Kuas,Alat,Buah,2,18000,36000,1/8/2024
+T1756,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T2069,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/7/2024
+T1983,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/8/2024
+T1705,Kuas,Alat,Buah,6,18000,108000,1/6/2024
+T1208,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/5/2024
+T1663,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/7/2024
+T1854,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1704,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/5/2024
+T2028,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1639,Cat Kayu,Cat,Kaleng,8,89000,712000,1/2/2024
+T1663,Cat Kayu,Cat,Kaleng,6,89000,534000,1/8/2024
+T1918,Cat Kayu,Cat,Kaleng,9,89000,801000,1/6/2024
+T1119,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1513,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/8/2024
+T1580,Semen,Material Konstruksi,Zak,1,63000,63000,1/9/2024
+T1614,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1061,Semen,Material Konstruksi,Zak,8,63000,504000,1/3/2024
+T1252,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/1/2024
+T1204,Kuas,Alat,Buah,1,18000,18000,1/8/2024
+T1720,Kuas,Alat,Buah,4,18000,72000,1/1/2024
+T1918,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/4/2024
+T2050,Semen,Material Konstruksi,Zak,10,63000,630000,1/2/2024
+T1761,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/5/2024
+T1898,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/8/2024
+T1769,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1937,Kuas,Alat,Buah,1,18000,18000,1/2/2024
+T1558,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/5/2024
+T1804,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1401,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1866,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/1/2024
+T1364,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T2047,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/1/2024
+T1002,Cat Kayu,Cat,Kaleng,4,89000,356000,1/5/2024
+T1514,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1665,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1648,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/8/2024
+T1768,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/9/2024
+T1521,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/9/2024
+T1435,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/3/2024
+T1350,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T1717,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/3/2024
+T1369,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1738,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/6/2024
+T1488,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1287,Cat Tembok,Cat,Kaleng,3,232000,696000,1/6/2024
+T1850,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/6/2024
+T1620,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/3/2024
+T1716,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T2002,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/3/2024
+T1408,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T1155,Cat Tembok,Cat,Kaleng,4,232000,928000,1/7/2024
+T1471,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/8/2024
+T1906,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1034,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/6/2024
+T1158,Cat Kayu,Cat,Kaleng,2,89000,178000,1/5/2024
+T1278,Cat Kayu,Cat,Kaleng,9,89000,801000,1/3/2024
+T1359,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/6/2024
+T2038,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/3/2024
+T1722,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1068,Cat Kayu,Cat,Kaleng,10,89000,890000,1/7/2024
+T1567,Kuas,Alat,Buah,5,18000,90000,1/9/2024
+T1272,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1549,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/5/2024
+T1232,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/4/2024
+T1739,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/2/2024
+T1846,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1325,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/6/2024
+T1928,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T2050,Semen,Material Konstruksi,Zak,5,63000,315000,1/8/2024
+T1701,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/2/2024
+T1262,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/4/2024
+T1394,Cat Kayu,Cat,Kaleng,6,89000,534000,1/1/2024
+T1919,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/5/2024
+T2031,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1271,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/2/2024
+T1592,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1206,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T1900,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1621,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/4/2024
+T1503,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1056,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/5/2024
+T1367,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/8/2024
+T1441,Kuas,Alat,Buah,1,18000,18000,1/9/2024
+T1761,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/1/2024
+T1024,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1763,Cat Kayu,Cat,Kaleng,8,89000,712000,1/3/2024
+T1909,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/5/2024
+T1041,Kuas,Alat,Buah,8,18000,144000,1/8/2024
+T2066,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/3/2024
+T1830,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/1/2024
+T1502,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/7/2024
+T1985,Semen,Material Konstruksi,Zak,7,63000,441000,1/7/2024
+T1066,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1180,Kuas,Alat,Buah,5,18000,90000,1/5/2024
+T1602,Kuas,Alat,Buah,9,18000,162000,1/8/2024
+T1248,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1662,Semen,Material Konstruksi,Zak,4,63000,252000,1/3/2024
+T1702,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T1349,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1309,Cat Kayu,Cat,Kaleng,4,89000,356000,1/9/2024
+T2001,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/7/2024
+T1015,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1481,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/1/2024
+T1315,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1388,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T1696,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T1303,Semen,Material Konstruksi,Zak,6,63000,378000,1/6/2024
+T1929,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/7/2024
+T1159,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1376,Cat Kayu,Cat,Kaleng,4,89000,356000,1/4/2024
+T1015,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1730,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/1/2024
+T1547,Semen,Material Konstruksi,Zak,2,63000,126000,1/1/2024
+T1857,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1029,Semen,Material Konstruksi,Zak,9,63000,567000,1/3/2024
+T1508,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1955,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/6/2024
+T1264,Cat Kayu,Cat,Kaleng,7,89000,623000,1/2/2024
+T1475,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/9/2024
+T1015,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/5/2024
+T1510,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/4/2024
+T1005,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/5/2024
+T1618,Semen,Material Konstruksi,Zak,7,63000,441000,1/7/2024
+T1996,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1164,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/6/2024
+T1613,Kuas,Alat,Buah,2,18000,36000,1/3/2024
+T1208,Cat Kayu,Cat,Kaleng,2,89000,178000,1/4/2024
+T1627,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/7/2024
+T1859,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1801,Cat Kayu,Cat,Kaleng,9,89000,801000,1/7/2024
+T1074,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T1589,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/9/2024
+T1220,Kuas,Alat,Buah,3,18000,54000,1/3/2024
+T1374,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1473,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1962,Cat Tembok,Cat,Kaleng,1,232000,232000,1/2/2024
+T1516,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/1/2024
+T1132,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/2/2024
+T1590,Cat Kayu,Cat,Kaleng,10,89000,890000,1/4/2024
+T1158,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1679,Semen,Material Konstruksi,Zak,10,63000,630000,1/1/2024
+T1064,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1145,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/1/2024
+T1834,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/9/2024
+T1026,Cat Kayu,Cat,Kaleng,2,89000,178000,1/6/2024
+T1407,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/8/2024
+T1785,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1377,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/5/2024
+T1195,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1936,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1563,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/7/2024
+T2068,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T2050,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1061,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1550,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/5/2024
+T1524,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/5/2024
+T1786,Cat Tembok,Cat,Kaleng,3,232000,696000,1/6/2024
+T1172,Semen,Material Konstruksi,Zak,4,63000,252000,1/8/2024
+T1974,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/2/2024
+T1452,Kuas,Alat,Buah,10,18000,180000,1/3/2024
+T1978,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/8/2024
+T1279,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1201,Semen,Material Konstruksi,Zak,8,63000,504000,1/2/2024
+T1374,Kuas,Alat,Buah,6,18000,108000,1/8/2024
+T1028,Cat Tembok,Cat,Kaleng,1,232000,232000,1/7/2024
+T1790,Cat Kayu,Cat,Kaleng,5,89000,445000,1/1/2024
+T1116,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/8/2024
+T2017,Cat Kayu,Cat,Kaleng,7,89000,623000,1/3/2024
+T2044,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/9/2024
+T1496,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/1/2024
+T1453,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/3/2024
+T1619,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/7/2024
+T1336,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/4/2024
+T1891,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/3/2024
+T1240,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/3/2024
+T1724,Cat Tembok,Cat,Kaleng,2,232000,464000,1/3/2024
+T1746,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/1/2024
+T1627,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1045,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1648,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/1/2024
+T1697,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/2/2024
+T1852,Cat Kayu,Cat,Kaleng,6,89000,534000,1/3/2024
+T1394,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1377,Cat Kayu,Cat,Kaleng,8,89000,712000,1/8/2024
+T1773,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/4/2024
+T1274,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/2/2024
+T1328,Kuas,Alat,Buah,5,18000,90000,1/3/2024
+T1216,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/5/2024
+T1331,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/5/2024
+T1641,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/3/2024
+T1457,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1760,Semen,Material Konstruksi,Zak,9,63000,567000,1/5/2024
+T1392,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/7/2024
+T1330,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/8/2024
+T1915,Kuas,Alat,Buah,6,18000,108000,1/7/2024
+T1624,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/2/2024
+T2018,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1209,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/8/2024
+T1867,Kuas,Alat,Buah,5,18000,90000,1/1/2024
+T1825,Cat Kayu,Cat,Kaleng,9,89000,801000,1/4/2024
+T1915,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/9/2024
+T2050,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/8/2024
+T2016,Semen,Material Konstruksi,Zak,1,63000,63000,1/9/2024
+T1165,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/1/2024
+T1062,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1221,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1216,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/4/2024
+T1994,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/7/2024
+T1707,Kuas,Alat,Buah,10,18000,180000,1/2/2024
+T1721,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1089,Cat Kayu,Cat,Kaleng,7,89000,623000,1/4/2024
+T1893,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/6/2024
+T2039,Cat Tembok,Cat,Kaleng,4,232000,928000,1/1/2024
+T1283,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1611,Cat Kayu,Cat,Kaleng,10,89000,890000,1/1/2024
+T1085,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1500,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/1/2024
+T1696,Cat Kayu,Cat,Kaleng,1,89000,89000,1/2/2024
+T1853,Kuas,Alat,Buah,9,18000,162000,1/5/2024
+T1148,Kuas,Alat,Buah,6,18000,108000,1/2/2024
+T1965,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/5/2024
+T1928,Cat Kayu,Cat,Kaleng,9,89000,801000,1/9/2024
+T1473,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1396,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/8/2024
+T1933,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/6/2024
+T1731,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/1/2024
+T1157,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/1/2024
+T1638,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/6/2024
+T1690,Cat Kayu,Cat,Kaleng,8,89000,712000,1/4/2024
+T1303,Kuas,Alat,Buah,7,18000,126000,1/8/2024
+T1079,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/4/2024
+T1076,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/4/2024
+T1244,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/9/2024
+T1761,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1829,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/4/2024
+T1463,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/6/2024
+T1669,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/9/2024
+T1107,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/1/2024
+T1864,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/9/2024
+T1622,Cat Tembok,Cat,Kaleng,2,232000,464000,1/1/2024
+T1160,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/7/2024
+T1443,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/7/2024
+T1239,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/1/2024
+T1268,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1693,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/2/2024
+T1248,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/3/2024
+T1375,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/4/2024
+T1296,Kuas,Alat,Buah,5,18000,90000,1/4/2024
+T1922,Cat Tembok,Cat,Kaleng,2,232000,464000,1/6/2024
+T1961,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/5/2024
+T1938,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/2/2024
+T1198,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1161,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/5/2024
+T1530,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/4/2024
+T1347,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/6/2024
+T1146,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1120,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/3/2024
+T1028,Semen,Material Konstruksi,Zak,10,63000,630000,1/6/2024
+T1013,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1824,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/5/2024
+T1863,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T2007,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/3/2024
+T2045,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/4/2024
+T1954,Semen,Material Konstruksi,Zak,8,63000,504000,1/2/2024
+T1567,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/6/2024
+T1393,Cat Kayu,Cat,Kaleng,5,89000,445000,1/8/2024
+T1327,Kuas,Alat,Buah,8,18000,144000,1/7/2024
+T1715,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/6/2024
+T1922,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1594,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1007,Semen,Material Konstruksi,Zak,4,63000,252000,1/6/2024
+T1685,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T2062,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1467,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/3/2024
+T1275,Cat Kayu,Cat,Kaleng,7,89000,623000,1/8/2024
+T1620,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/6/2024
+T1182,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/5/2024
+T1718,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/6/2024
+T1577,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/3/2024
+T1889,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1754,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/7/2024
+T1794,Kuas,Alat,Buah,4,18000,72000,1/7/2024
+T1257,Cat Tembok,Cat,Kaleng,1,232000,232000,1/9/2024
+T1901,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1464,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/8/2024
+T1287,Kuas,Alat,Buah,4,18000,72000,1/9/2024
+T1446,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/1/2024
+T1483,Semen,Material Konstruksi,Zak,1,63000,63000,1/1/2024
+T1534,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T1693,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1022,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/9/2024
+T1557,Cat Tembok,Cat,Kaleng,3,232000,696000,1/1/2024
+T2038,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T2041,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T2050,Cat Kayu,Cat,Kaleng,8,89000,712000,1/2/2024
+T1823,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1488,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/7/2024
+T1040,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/4/2024
+T1925,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/8/2024
+T1985,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/6/2024
+T1908,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1707,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/5/2024
+T1052,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/6/2024
+T1071,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/5/2024
+T1200,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/9/2024
+T1559,Cat Tembok,Cat,Kaleng,4,232000,928000,1/6/2024
+T1078,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/1/2024
+T1024,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/2/2024
+T1197,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/3/2024
+T1586,Cat Kayu,Cat,Kaleng,2,89000,178000,1/8/2024
+T1626,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/7/2024
+T1373,Semen,Material Konstruksi,Zak,7,63000,441000,1/8/2024
+T1818,Kuas,Alat,Buah,4,18000,72000,1/4/2024
+T1367,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/1/2024
+T1815,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/5/2024
+T1596,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/3/2024
+T1615,Kuas,Alat,Buah,3,18000,54000,1/4/2024
+T1111,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/5/2024
+T1583,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/7/2024
+T1560,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/6/2024
+T1221,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1160,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/2/2024
+T1775,Kuas,Alat,Buah,10,18000,180000,1/6/2024
+T1232,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T1179,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/5/2024
+T1794,Cat Kayu,Cat,Kaleng,8,89000,712000,1/3/2024
+T1764,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/2/2024
+T1427,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/4/2024
+T1264,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/4/2024
+T1895,Cat Kayu,Cat,Kaleng,9,89000,801000,1/2/2024
+T1992,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/8/2024
+T1385,Cat Kayu,Cat,Kaleng,10,89000,890000,1/7/2024
+T1714,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/7/2024
+T1838,Semen,Material Konstruksi,Zak,4,63000,252000,1/1/2024
+T1147,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1395,Cat Kayu,Cat,Kaleng,9,89000,801000,1/3/2024
+T1872,Cat Kayu,Cat,Kaleng,10,89000,890000,1/4/2024
+T1501,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T1216,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T2046,Cat Kayu,Cat,Kaleng,6,89000,534000,1/4/2024
+T1266,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1564,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1027,Kuas,Alat,Buah,4,18000,72000,1/6/2024
+T1270,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/8/2024
+T1833,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T1350,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/2/2024
+T1560,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/5/2024
+T1791,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/2/2024
+T1032,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1048,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/1/2024
+T1358,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/1/2024
+T1477,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1110,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/9/2024
+T1587,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/4/2024
+T1313,Kuas,Alat,Buah,6,18000,108000,1/9/2024
+T1831,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/1/2024
+T1071,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/2/2024
+T1979,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/8/2024
+T1836,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/6/2024
+T1421,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/4/2024
+T1487,Kuas,Alat,Buah,8,18000,144000,1/1/2024
+T1440,Semen,Material Konstruksi,Zak,6,63000,378000,1/4/2024
+T1608,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/6/2024
+T1810,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/3/2024
+T1395,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/2/2024
+T2023,Semen,Material Konstruksi,Zak,3,63000,189000,1/6/2024
+T1014,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/3/2024
+T1699,Cat Kayu,Cat,Kaleng,5,89000,445000,1/7/2024
+T2011,Cat Kayu,Cat,Kaleng,7,89000,623000,1/2/2024
+T1760,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/8/2024
+T2015,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/8/2024
+T1043,Semen,Material Konstruksi,Zak,6,63000,378000,1/9/2024
+T1929,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/2/2024
+T2066,Kuas,Alat,Buah,6,18000,108000,1/2/2024
+T1174,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1243,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/4/2024
+T2059,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/2/2024
+T1090,Kuas,Alat,Buah,4,18000,72000,1/6/2024
+T1549,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/3/2024
+T2061,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/4/2024
+T1516,Kuas,Alat,Buah,2,18000,36000,1/4/2024
+T1973,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1422,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/4/2024
+T1095,Kuas,Alat,Buah,10,18000,180000,1/6/2024
+T1966,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/9/2024
+T1974,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/9/2024
+T1086,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/3/2024
+T1993,Kuas,Alat,Buah,9,18000,162000,1/6/2024
+T2004,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/9/2024
+T1839,Cat Kayu,Cat,Kaleng,5,89000,445000,1/7/2024
+T1743,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1973,Kuas,Alat,Buah,3,18000,54000,1/2/2024
+T1509,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/3/2024
+T1155,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/3/2024
+T1146,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/1/2024
+T1068,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/1/2024
+T1903,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1368,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T1846,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1278,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/1/2024
+T1366,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/9/2024
+T2005,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T2022,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1176,Sambungan PVC,Bahan Logam dan PVC,Buah,10,11000,110000,1/9/2024
+T1008,Kuas,Alat,Buah,1,18000,18000,1/6/2024
+T1026,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/6/2024
+T2053,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/2/2024
+T1011,Cat Tembok,Cat,Kaleng,3,232000,696000,1/5/2024
+T1571,Cat Kayu,Cat,Kaleng,6,89000,534000,1/6/2024
+T1179,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/6/2024
+T1440,Cat Kayu,Cat,Kaleng,1,89000,89000,1/7/2024
+T1467,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T1770,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1338,Kuas,Alat,Buah,9,18000,162000,1/7/2024
+T1474,Besi Beton,Bahan Logam dan PVC,Batang,3,101000,303000,1/7/2024
+T1026,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/2/2024
+T1738,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1904,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/4/2024
+T1543,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/2/2024
+T1135,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/4/2024
+T1813,Cat Kayu,Cat,Kaleng,8,89000,712000,1/8/2024
+T1542,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/1/2024
+T1897,Kuas,Alat,Buah,8,18000,144000,1/1/2024
+T1937,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1866,Cat Kayu,Cat,Kaleng,6,89000,534000,1/7/2024
+T1356,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T2036,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/6/2024
+T1569,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1497,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/9/2024
+T1031,Semen,Material Konstruksi,Zak,2,63000,126000,1/2/2024
+T1942,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/3/2024
+T1036,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/4/2024
+T2051,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/4/2024
+T1344,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/3/2024
+T1263,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/8/2024
+T1511,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/6/2024
+T1575,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/2/2024
+T2039,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/5/2024
+T1104,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/6/2024
+T2066,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/1/2024
+T1143,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/6/2024
+T1552,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/3/2024
+T1836,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/2/2024
+T1750,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1691,Kuas,Alat,Buah,5,18000,90000,1/4/2024
+T2005,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/1/2024
+T1716,Cat Kayu,Cat,Kaleng,2,89000,178000,1/9/2024
+T1117,Kuas,Alat,Buah,10,18000,180000,1/9/2024
+T1239,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/9/2024
+T1198,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/8/2024
+T1299,Kuas,Alat,Buah,3,18000,54000,1/7/2024
+T2000,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1752,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/1/2024
+T1061,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/8/2024
+T1255,Semen,Material Konstruksi,Zak,2,63000,126000,1/6/2024
+T1614,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/5/2024
+T1779,Cat Kayu,Cat,Kaleng,8,89000,712000,1/7/2024
+T1473,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/4/2024
+T2040,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/7/2024
+T1365,Cat Kayu,Cat,Kaleng,3,89000,267000,1/2/2024
+T1975,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1858,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/9/2024
+T1177,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/9/2024
+T1899,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/2/2024
+T2033,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T1192,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1856,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/9/2024
+T1563,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/3/2024
+T1012,Semen,Material Konstruksi,Zak,5,63000,315000,1/4/2024
+T1311,Semen,Material Konstruksi,Zak,10,63000,630000,1/8/2024
+T1299,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/7/2024
+T1760,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/6/2024
+T1912,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/5/2024
+T1871,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/5/2024
+T1191,Cat Kayu,Cat,Kaleng,9,89000,801000,1/1/2024
+T1704,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/5/2024
+T1153,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/2/2024
+T1804,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/3/2024
+T1425,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/2/2024
+T1458,Cat Tembok,Cat,Kaleng,9,232000,2088000,1/9/2024
+T1505,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/9/2024
+T1917,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1202,Cat Kayu,Cat,Kaleng,8,89000,712000,1/1/2024
+T1317,Cat Kayu,Cat,Kaleng,10,89000,890000,1/6/2024
+T1405,Kuas,Alat,Buah,5,18000,90000,1/5/2024
+T1494,Batu Bata,Material Konstruksi,Buah,10,1000,10000,1/7/2024
+T1834,Kuas,Alat,Buah,2,18000,36000,1/2/2024
+T1505,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/9/2024
+T1932,Cat Tembok,Cat,Kaleng,3,232000,696000,1/6/2024
+T1116,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T1515,Besi Beton,Bahan Logam dan PVC,Batang,10,101000,1010000,1/2/2024
+T1531,Cat Tembok,Cat,Kaleng,4,232000,928000,1/9/2024
+T1058,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/9/2024
+T1398,Batu Bata,Material Konstruksi,Buah,5,1000,5000,1/3/2024
+T1497,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1435,Kuas,Alat,Buah,6,18000,108000,1/8/2024
+T1863,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1213,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/4/2024
+T1753,Kuas,Alat,Buah,7,18000,126000,1/2/2024
+T1388,Pasir,Material Konstruksi,Meter Kubik,9,447000,4023000,1/8/2024
+T1863,Cat Kayu,Cat,Kaleng,5,89000,445000,1/4/2024
+T1673,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/8/2024
+T1016,Semen,Material Konstruksi,Zak,9,63000,567000,1/9/2024
+T1428,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/8/2024
+T1993,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/5/2024
+T1620,Cat Kayu,Cat,Kaleng,3,89000,267000,1/3/2024
+T1492,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T1947,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/6/2024
+T1171,Besi Beton,Bahan Logam dan PVC,Batang,8,101000,808000,1/3/2024
+T1065,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/2/2024
+T1855,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/1/2024
+T1329,Sambungan PVC,Bahan Logam dan PVC,Buah,1,11000,11000,1/2/2024
+T1078,Cat Tembok,Cat,Kaleng,7,232000,1624000,1/9/2024
+T1259,Kuas,Alat,Buah,4,18000,72000,1/6/2024
+T1296,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/7/2024
+T1356,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/7/2024
+T1521,Pipa PVC,Bahan Logam dan PVC,Batang,9,50000,450000,1/7/2024
+T1669,Pasir,Material Konstruksi,Meter Kubik,2,447000,894000,1/2/2024
+T1369,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1096,Kuas,Alat,Buah,10,18000,180000,1/6/2024
+T1054,Cat Tembok,Cat,Kaleng,3,232000,696000,1/3/2024
+T1314,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/7/2024
+T1751,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/4/2024
+T1598,Cat Kayu,Cat,Kaleng,9,89000,801000,1/2/2024
+T1010,Semen,Material Konstruksi,Zak,2,63000,126000,1/2/2024
+T1910,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/9/2024
+T1330,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/3/2024
+T1969,Semen,Material Konstruksi,Zak,5,63000,315000,1/2/2024
+T1529,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/3/2024
+T1638,Cat Kayu,Cat,Kaleng,4,89000,356000,1/2/2024
+T1539,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/6/2024
+T1533,Kuas,Alat,Buah,1,18000,18000,1/3/2024
+T1419,Semen,Material Konstruksi,Zak,8,63000,504000,1/8/2024
+T1923,Besi Beton,Bahan Logam dan PVC,Batang,4,101000,404000,1/4/2024
+T1788,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/8/2024
+T1798,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/9/2024
+T1837,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/5/2024
+T1782,Cat Tembok,Cat,Kaleng,8,232000,1856000,1/4/2024
+T1774,Sambungan PVC,Bahan Logam dan PVC,Buah,9,11000,99000,1/8/2024
+T1210,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/9/2024
+T1638,Semen,Material Konstruksi,Zak,10,63000,630000,1/7/2024
+T1152,Cat Tembok,Cat,Kaleng,3,232000,696000,1/4/2024
+T1846,Batu Bata,Material Konstruksi,Buah,2,1000,2000,1/7/2024
+T1499,Cat Kayu,Cat,Kaleng,7,89000,623000,1/7/2024
+T1990,Pasir,Material Konstruksi,Meter Kubik,7,447000,3129000,1/4/2024
+T1251,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T1192,Cat Kayu,Cat,Kaleng,5,89000,445000,1/9/2024
+T1146,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1683,Kuas,Alat,Buah,3,18000,54000,1/6/2024
+T1563,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/8/2024
+T1806,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/9/2024
+T1320,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/6/2024
+T1351,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/1/2024
+T1675,Cat Kayu,Cat,Kaleng,2,89000,178000,1/1/2024
+T1004,Kuas,Alat,Buah,8,18000,144000,1/2/2024
+T1350,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/7/2024
+T1124,Semen,Material Konstruksi,Zak,6,63000,378000,1/6/2024
+T1497,Cat Kayu,Cat,Kaleng,2,89000,178000,1/9/2024
+T1502,Cat Kayu,Cat,Kaleng,5,89000,445000,1/6/2024
+T1451,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/3/2024
+T1737,Pasir,Material Konstruksi,Meter Kubik,10,447000,4470000,1/4/2024
+T1338,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/9/2024
+T1685,Kuas,Alat,Buah,3,18000,54000,1/8/2024
+T2059,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/5/2024
+T1993,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/3/2024
+T1240,Kuas,Alat,Buah,8,18000,144000,1/7/2024
+T1782,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/3/2024
+T1007,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/5/2024
+T1911,Cat Tembok,Cat,Kaleng,4,232000,928000,1/4/2024
+T2054,Pipa PVC,Bahan Logam dan PVC,Batang,6,50000,300000,1/6/2024
+T1386,Cat Tembok,Cat,Kaleng,3,232000,696000,1/2/2024
+T1962,Semen,Material Konstruksi,Zak,10,63000,630000,1/5/2024
+T1824,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/5/2024
+T1148,Pipa PVC,Bahan Logam dan PVC,Batang,4,50000,200000,1/3/2024
+T1020,Cat Kayu,Cat,Kaleng,3,89000,267000,1/5/2024
+T1697,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/6/2024
+T1567,Semen,Material Konstruksi,Zak,6,63000,378000,1/3/2024
+T1190,Batu Bata,Material Konstruksi,Buah,6,1000,6000,1/4/2024
+T1729,Cat Kayu,Cat,Kaleng,2,89000,178000,1/8/2024
+T1837,Kuas,Alat,Buah,10,18000,180000,1/7/2024
+T1304,Semen,Material Konstruksi,Zak,5,63000,315000,1/2/2024
+T1021,Sambungan PVC,Bahan Logam dan PVC,Buah,3,11000,33000,1/7/2024
+T1298,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/2/2024
+T1924,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/2/2024
+T1675,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/7/2024
+T1167,Cat Tembok,Cat,Kaleng,10,232000,2320000,1/6/2024
+T1441,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/1/2024
+T1502,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/4/2024
+T1238,Batu Bata,Material Konstruksi,Buah,9,1000,9000,1/3/2024
+T1245,Sambungan PVC,Bahan Logam dan PVC,Buah,4,11000,44000,1/8/2024
+T1210,Pipa PVC,Bahan Logam dan PVC,Batang,8,50000,400000,1/6/2024
+T1445,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1987,Cat Kayu,Cat,Kaleng,8,89000,712000,1/6/2024
+T1689,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/8/2024
+T1411,Pasir,Material Konstruksi,Meter Kubik,4,447000,1788000,1/5/2024
+T1849,Semen,Material Konstruksi,Zak,6,63000,378000,1/5/2024
+T1984,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/6/2024
+T1673,Cat Kayu,Cat,Kaleng,4,89000,356000,1/7/2024
+T1364,Cat Kayu,Cat,Kaleng,7,89000,623000,1/1/2024
+T1935,Semen,Material Konstruksi,Zak,5,63000,315000,1/3/2024
+T1601,Semen,Material Konstruksi,Zak,2,63000,126000,1/7/2024
+T1402,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/6/2024
+T1602,Kuas,Alat,Buah,10,18000,180000,1/1/2024
+T1300,Semen,Material Konstruksi,Zak,7,63000,441000,1/3/2024
+T1213,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/2/2024
+T1132,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/9/2024
+T2066,Cat Tembok,Cat,Kaleng,6,232000,1392000,1/5/2024
+T1304,Cat Kayu,Cat,Kaleng,6,89000,534000,1/9/2024
+T1759,Cat Kayu,Cat,Kaleng,1,89000,89000,1/7/2024
+T2024,Kuas,Alat,Buah,5,18000,90000,1/9/2024
+T1580,Sambungan PVC,Bahan Logam dan PVC,Buah,8,11000,88000,1/3/2024
+T1274,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/7/2024
+T2067,Besi Beton,Bahan Logam dan PVC,Batang,7,101000,707000,1/5/2024
+T1238,Batu Bata,Material Konstruksi,Buah,7,1000,7000,1/7/2024
+T1922,Kuas,Alat,Buah,7,18000,126000,1/7/2024
+T1518,Cat Tembok,Cat,Kaleng,3,232000,696000,1/2/2024
+T1301,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/4/2024
+T1287,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/7/2024
+T1049,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/4/2024
+T1661,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1810,Cat Kayu,Cat,Kaleng,2,89000,178000,1/2/2024
+T1880,Kuas,Alat,Buah,9,18000,162000,1/7/2024
+T1333,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/4/2024
+T1600,Pasir,Material Konstruksi,Meter Kubik,8,447000,3576000,1/1/2024
+T1598,Pipa PVC,Bahan Logam dan PVC,Batang,5,50000,250000,1/8/2024
+T1282,Cat Kayu,Cat,Kaleng,8,89000,712000,1/8/2024
+T2058,Sambungan PVC,Bahan Logam dan PVC,Buah,2,11000,22000,1/1/2024
+T1833,Besi Beton,Bahan Logam dan PVC,Batang,5,101000,505000,1/1/2024
+T1232,Pasir,Material Konstruksi,Meter Kubik,5,447000,2235000,1/2/2024
+T1950,Pasir,Material Konstruksi,Meter Kubik,3,447000,1341000,1/3/2024
+T1802,Semen,Material Konstruksi,Zak,6,63000,378000,1/1/2024
+T1667,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/2/2024
+T1017,Pipa PVC,Bahan Logam dan PVC,Batang,2,50000,100000,1/8/2024
+T1640,Batu Bata,Material Konstruksi,Buah,4,1000,4000,1/3/2024
+T1676,Sambungan PVC,Bahan Logam dan PVC,Buah,5,11000,55000,1/1/2024
+T1590,Semen,Material Konstruksi,Zak,4,63000,252000,1/3/2024
+T1078,Pipa PVC,Bahan Logam dan PVC,Batang,7,50000,350000,1/7/2024
+T1233,Pipa PVC,Bahan Logam dan PVC,Batang,10,50000,500000,1/2/2024
+T1386,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/3/2024
+T1240,Batu Bata,Material Konstruksi,Buah,1,1000,1000,1/8/2024
+T1297,Pasir,Material Konstruksi,Meter Kubik,6,447000,2682000,1/5/2024
+T1045,Besi Beton,Bahan Logam dan PVC,Batang,1,101000,101000,1/3/2024
+T2067,Besi Beton,Bahan Logam dan PVC,Batang,2,101000,202000,1/2/2024
+T1393,Pasir,Material Konstruksi,Meter Kubik,1,447000,447000,1/2/2024
+T1057,Batu Bata,Material Konstruksi,Buah,3,1000,3000,1/5/2024
+T1765,Semen,Material Konstruksi,Zak,8,63000,504000,1/2/2024
+T1094,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/6/2024
+T1398,Kuas,Alat,Buah,4,18000,72000,1/3/2024
+T1380,Kuas,Alat,Buah,4,18000,72000,1/8/2024
+T1455,Sambungan PVC,Bahan Logam dan PVC,Buah,7,11000,77000,1/2/2024
+T1036,Sambungan PVC,Bahan Logam dan PVC,Buah,6,11000,66000,1/5/2024
+T1979,Kuas,Alat,Buah,9,18000,162000,1/4/2024
+T1077,Batu Bata,Material Konstruksi,Buah,8,1000,8000,1/9/2024
+T1108,Semen,Material Konstruksi,Zak,1,63000,63000,1/8/2024
+T1362,Kuas,Alat,Buah,9,18000,162000,1/3/2024
+T1084,Cat Kayu,Cat,Kaleng,3,89000,267000,1/1/2024
+T1796,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/7/2024
+T1323,Pipa PVC,Bahan Logam dan PVC,Batang,1,50000,50000,1/5/2024
+T1726,Besi Beton,Bahan Logam dan PVC,Batang,9,101000,909000,1/2/2024
+T1447,Semen,Material Konstruksi,Zak,9,63000,567000,1/2/2024
+T1036,Besi Beton,Bahan Logam dan PVC,Batang,6,101000,606000,1/6/2024
+T2057,Cat Tembok,Cat,Kaleng,5,232000,1160000,1/7/2024
+T1829,Cat Tembok,Cat,Kaleng,1,232000,232000,1/8/2024
+T1600,Pipa PVC,Bahan Logam dan PVC,Batang,3,50000,150000,1/8/2024
+T1841,Cat Tembok,Cat,Kaleng,2,232000,464000,1/7/2024
